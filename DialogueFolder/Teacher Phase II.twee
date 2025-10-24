@@ -1,0 +1,668 @@
+:: StoryTitle
+Teacher Phase II
+
+
+:: StoryData
+{
+  "ifid": "6A80153B-2ECF-41B6-B552-9BC4CE7B8520",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Intro for the Phase",
+  "tag-colors": {
+    "Options": "orange",
+    "Correct": "green",
+    "Alert/Update": "red",
+    "Add-Visual": "purple"
+  },
+  "zoom": 1
+}
+
+
+:: Desk Separation Dialogue 1.1 {"position":"850,175","size":"100,100"}
+Human respiration and crowded spaces contribute to both particle levels as well as CO<sub>2</sub> levels in indoor spaces, especially sealed rooms or buildings. When there is greater conversation or activity occurring, people are letting out more particles and CO<sub>2</sub> into the air. As the number of people in the room increases, the levels of the pollutants also increases. Studies have even shown that the levels of PM<sub>2.5</sub> increases as the volume of talking increases.
+[[Desk Separation Dialogue 1.2]]
+
+
+:: Desk Separation Dialogue 1.2 {"position":"850,300","size":"100,100"}
+Further, there is also the distance that the pollutants can travel. The distance that is travelled by a pollutant and how long the pollutant stays in the air (rather than settling onto a surface) depends on the size of the pollutant. Gases like CO<sub>2</sub> are small and can stay in the air a while. Larger particles will tend to fall from the air much faster because they are larger. Thus, there is the issue of how much pollution a person emits and how much of that exhaled pollution a neighbor breathes in.
+[[Desk Separation Dialogue 1.3]]
+
+
+:: Desk Separation Dialogue 1.3 {"position":"850,425","size":"100,100"}
+People essentially rebreathe someone else’s exhaled air, meaning they rebreathe CO<sub>2</sub> someone else breathed out. Rebreathed air has the potential to cause acute and chronic health effects in certain contexts. This doesn’t mean students can’t talk to each other, but it does encourage more desk separation.
+
+
+:: Desk Separation Dialogue Intro {"position":"850,50","size":"100,100"}
+All of your students sit at desks in your classroom. Sometimes during activities, desks are pushed together to create table-like formations that allow them to face each other, discuss, and work together more efficiently. When students’ full attention is needed and conversation has to be limited, the desks are spaced out and not in clusters.
+[[Desk Separation Dialogue 1.1]]
+
+
+:: First Email from Admin [Alert/Update] {"position":"725,50","size":"100,100"}
+Attention Teachers and Staff,
+
+We have just received correspondence from the facility manager that maintenance put new filters into place throughout the school just under a month ago, meaning you don’t have to worry about information on how to install and get equipment such as Corsi-Rosenthal (CR) boxes until there is a dire need. This will ensure that resources aren’t used up too quickly by rooms that might not need them and limit exposure to the outside by sending staff outside and opening doors to allow excess pollution from outside in.
+
+Thank You,
+Administration
+
+
+
+:: Fourth Email from Admin 1.1 [Alert/Update] {"position":"2325,175","size":"100,100"}
+Attention Teachers and Staff,
+
+We have received an important message from our facility manager. After monitoring the situation carefully, local authorities have announced that while there is still air pollution present, isn’t classified as an “extreme” or unhealthy level. While it still isn’t advisable to spend long periods outdoors until explicitly stated, getting to a more permanent shelter after sheltering in place, preferably by a vehicle to limit prolonged exposure, is permitted and encouraged. Since the end of the school day is quickly approaching, it would be best to wait until normal dismissal time so parents, guardians, and other transportation personnel will still arrive promptly at the normal time. This also gives the facility manager further time to monitor updates from agencies such as the Department of Environmental Quality (DEQ) to ensure it is still safe. For students and staff who are unable to find their transportation immediately after the school day is over, we will push for carpool and bus usage but also offer up a large space for them to stay inside until they can get transportation that will prevent them from being outdoors for long periods. This notice might have been too short for people transporting students and employees to be able to get there on time after previous uncertainty, especially if they aren’t carefully following local air quality monitoring. Teachers, make sure your students have means of transportation before allowing them to spent excess time outside. Thank you for your cooperation and patience today.
+
+Kind Regards,
+Administration
+
+
+
+:: Fourth Email from Admin Intro {"position":"2325,50","size":"100,100"}
+Now that some time has passed, the administration has provided an update on the air quality in the area based off an update from the facility manager.
+[[Fourth Email from Admin 1.1]]
+
+
+:: IAQ Post-CR Box Placed 1.1 {"position":"2175,175","size":"100,100"}
+Current monitor display: Green RBG lights
+- CO<sub>2</sub>: 987
+- PM<sub>2.5</sub>: 21
+- Temperature: 23.5°C (74.48°F)
+- Humidity: 37%
+[[IAQ Post-CR Box Placed 1.2]]
+
+
+:: IAQ Post-CR Box Placed 1.2 {"position":"2250,350","size":"100,100"}
+You can see that the CO<sub>2</sub> and PM<sub>2.5</sub> levels have drastically decreased after implementing the CR box, so it falls in the “good” category index and doesn’t continue to increase past “moderate” and further into “poor” levels. Although the readings aren’t quite where they were at the beginning of the day, keeping the CR box in place will continue to positively contribute to the air quality making it healthier to breathe in.
+
+
+:: IAQ Post-CR Box Placed Intro {"position":"2175,50","size":"100,100"}
+It has now been well over an hour since you installed the CR box in your classroom. It might be wise to check your IAQ monitor to make sure it is working properly.
+[[IAQ Post-CR Box Placed 1.1]]
+
+
+:: Intro for the Phase {"position":"25,50","size":"100,100"}
+Welcome to Phase 2. You will now work through a scenario as a <b>Teacher</b>.
+[[Teacher P2 Intro]]
+
+
+:: Second Email from Admin [Alert/Update] {"position":"1275,50","size":"100,100"}
+Dear Teachers and Staff,
+
+Due to worsening smoke conditions, you must check the air quality monitor in each classroom immediately to confirm it’s working and readings are in the safe range.
+Report all readings to indicate patterns in different parts of the school. Emphasize any abnormal readings or non-functioning units to Facilities right away so we can respond. Thank you for acting quickly to keep everyone safe.
+
+Sincerely,
+Administration
+
+
+
+:: Teacher P2 Intro {"position":"150,50","size":"100,100"}
+Last night, there was a large fire in a nearby city. Though the flames have been contained and the fire is no longer burning, the large smoke plumes have suspended particles in the air and caused excess pollution. It is currently 8 am, the beginning of the day at the local district school you’re a <b>Teacher</b> for.
+[[Teacher P2 Intro 1.1]]
+
+
+:: Teacher P2 Intro 1.1 {"position":"75,175","size":"100,100"}
+The wildfire wasn’t directly next to the school building and the smoke pollutants aren’t confirmed to spread in your direction, but it is possible that they can spread to the school’s area.
+[[Teacher P2 Intro 1.2]]
+
+
+:: Teacher P2 Intro 1.2 {"position":"75,300","size":"100,100"}
+<b>ALERT</b>: Unhealthy air quality from wildfire smoke today. Limit outdoor activities (recess, PE, sports, etc.), keep windows closed, recirculate indoor air, and monitor students with asthma or breathing issues. Updates to follow.
+[[Teacher P2 Intro 1.3]]
+
+
+:: Teacher P2 Intro 1.3 {"position":"75,425","size":"100,100"}
+During your time at this school, there have been days of high pollution where it is recommended for students to not go outside for long durations or at all during recess, but you haven’t ever experienced anything as severe as this wildfire event before.
+[[Teacher P2 Intro 1.4]]
+
+
+:: Teacher P2 Intro 1.4 {"position":"75,550","size":"100,100"}
+Luckily, your facility manager will communicate proper protocols to the teachers and staff. The administration will either pass on this information to the rest of the teachers and staff, or he will directly confer with all of you when it’s more convenient to get questions answered from the source.
+[[Teacher P2 Intro 1.5]]
+
+
+:: Teacher P2 Intro 1.5 {"position":"75,675","size":"100,100"}
+As a <b>Teacher</b>, what steps can you take to help your community? You are responsible for communicating the situation with your students and fellow teachers while also maintaining a calm and comfortable environment in the classroom. Think of tasks and their order of priority specific to your role that you must have to carry out in this situation.
+[[Teacher P2 Intro 1.6]]
+
+
+:: Teacher P2 Intro 1.6 {"position":"75,800","size":"100,100"}
+Take your time carefully making the best selections during this simulation, but remember that you wouldn’t have as much time to think during a real wildfire. This is designed to help you prepare accordingly and know what to do outside a simulation.
+[[Teacher P2 Intro 1.7]]
+
+
+:: Teacher P2 Intro 1.7 {"position":"75,925","size":"100,100"}
+Ready for your school to count on your expertise to keep everyone safe and healthy?
+
+
+:: Teacher P2 Post-Q12 Commentary {"position":"2550,400","size":"100,100"}
+Likewise, teachers  such as yourself should also stay indoors if their normal transportation methods aren’t currently at their disposal.
+
+
+:: Teacher P2 Post-Q2 Commentary {"position":"550,375","size":"100,100"}
+While it is inevitable that the front office will have an influx of calls from concerned parents and guardians when they hear about the wildfire pollution near the school, the administration might contact you if there is important information given about one of your students, such as a health issue that should be closely monitored. Other teachers might also reach out to check in or get help with something. This correspondence will all be over email rather than on the phone so students don’t panic after hearing something alarming without context or solutions to it.
+[[Teacher P2 Q3]]
+
+
+:: Teacher P2 Post-Q8 Commentary {"position":"1400,1025","size":"100,100"}
+Now that everyone’s readings are being compiled, updates will be sent out about the situation through your administration team, so you should continue to carefully monitor your email when more information comes out.
+[[Teacher P2 Q9]]
+
+
+:: Teacher P2 Pre-Q10 Commentary {"position":"1725,50","size":"100,100"}
+Now that you have retrieved the CR box supplies, you should also check the IAQ monitor again to see what the readings are before installing the CR box to ensure that it’s properly filtering out particles and circulating air based on subsequent measurements.
+[[Teacher P2 Q10]]
+
+
+:: Teacher P2 Pre-Q6 Commentary [Add-Visual] {"position":"1125,50","size":"100,100"}
+The <b>Air Quality Index (AQI)</b> is a color-coded scale created by the Environmental Protection Agency (EPA) to set ranges of pollutants in the air. It quantifies the amount of outdoor pollution and assigns it a color based on the range it falls into. Weather apps or widgets, along with other tools, can be easily accessed by anyone to determine the AQI of their area.
+[[Teacher P2 Q6]]
+
+
+:: Teacher P2 Pre-Q7 Commentary {"position":"1400,50","size":"100,100"}
+Now that the administration has instructed you to examine you IAQ monitor, you have to determine any alarming values and alert the administration.
+[[Teacher P2 Q7]]
+
+
+:: Teacher P2 Q1 {"position":"275,50","size":"100,100"}
+What is the most urgent first action you should execute?
+[[Teacher P2 Q1 Options]]
+
+
+:: Teacher P2 Q1 Correct b [Correct] {"position":"350,300","size":"100,100"}
+Correct! This put every student’s safety first while also informing them of the situation to foster transparency and limit inciting panic.
+
+
+:: Teacher P2 Q1 Option a {"position":"225,300","size":"100,100"}
+Incorrect. Although this might sound helpful to potentially get the students out of the area, there are precautions that can be taken to keep students safe indoors rather than causing confusion and potentially exposing the students to unhealthy amounts of pollution. Additionally, coordinating would be difficult and not all students would be able to be picked up at short notice.
+[[Teacher P2 Q1]]
+
+
+:: Teacher P2 Q1 Option c {"position":"225,425","size":"100,100"}
+Incorrect. This could increase panic but also cause confusion of the situation since there are no active flames. Further, getting everyone to go outside is counterintuitive.
+[[Teacher P2 Q1]]
+
+
+:: Teacher P2 Q1 Option d {"position":"225,550","size":"100,100"}
+Incorrect. This might prioritize internal review, but this situation is too pressing to set up a meeting and review since the school has to ensure everyone gets indoors as soon as possible.
+[[Teacher P2 Q1]]
+
+
+:: Teacher P2 Q1 Options [Options] {"position":"225,175","size":"100,100"}
+Call the parents and guardians of students to alert them of smoke in the area and give them the option to pick them up early to get them out of the area as soon as possible.
+[[Teacher P2 Q1 Option a]]
+Ensure all of your students are in the room by taking attendance and let them know that outdoor activities and prolonged exposure to the outside air should be avoided.
+[[Teacher P2 Q1 Correct b]]
+Pull the fire alarm and wait for administration to announce over the intercom for students, teachers, and other staff to evacuate all buildings and get into single file fire drill lines following their teachers’ guidance as practiced monthly.
+[[Teacher P2 Q1 Option c]]
+Encourage the principal to review the school’s fire response protocol, then wait until the facility manager provides them with fleshed out instructions.
+[[Teacher P2 Q1 Option d]]
+
+
+
+:: Teacher P2 Q10 {"position":"1725,175","size":"100,100"}
+What changes have occurred that you should be concerned about?
+[[Teacher P2 Q10 10.1]]
+
+
+:: Teacher P2 Q10 10.1 {"position":"1675,300","size":"100,100"}
+Previous monitor display: Yellow RBG lights
+- CO<sub>2</sub>: 1,203
+- PM<sub>2.5</sub>: 19
+- Temperature: 23.5°C (74.3°F)
+- Humidity: 38%
+[[Teacher P2 Q10 10.2]]
+
+
+:: Teacher P2 Q10 10.2 {"position":"1775,300","size":"100,100"}
+Current monitor display: Orange RBG lights
+- CO<sub>2</sub>: 1,448
+- PM<sub>2.5</sub>: 57
+- Temperature: 23.5°C (74.3°F)
+- Humidity: 38%
+[[Teacher P2 Q10 Options]]
+
+
+:: Teacher P2 Q10 Correct c [Correct] {"position":"1800,550","size":"100,100"}
+Correct! The RBG lights have transitioned from yellow to orange, which indicates worsening air quality. The CO<sub>2</sub> level has gone from “moderate” into slightly over the “poor” air quality threshold. The PM<sub>2.5</sub> level has also become substantially unhealthier.
+
+
+:: Teacher P2 Q10 Option a {"position":"1675,550","size":"100,100"}
+Incorrect. While the CO<sub>2</sub> level has increased to “moderate” air quality level, there are other readings to consider.
+[[Teacher P2 Q10]]
+
+
+:: Teacher P2 Q10 Option b {"position":"1750,550","size":"100,100"}
+Incorrect. The temperature not changing between readings is not significant.
+[[Teacher P2 Q10]]
+
+
+:: Teacher P2 Q10 Option d {"position":"1875,550","size":"100,100"}
+Incorrect. Take another look, as there have been changes between readings.
+[[Teacher P2 Q10]]
+
+
+:: Teacher P2 Q10 Options [Options] {"position":"1725,425","size":"100,100"}
+The CO<sub>2</sub> level
+[[Teacher P2 Q10 Option a]]
+The constant temperature between readings
+[[Teacher P2 Q10 Option b]]
+The RBG lights color, the CO<sub>2</sub> level, and the PM<sub>2.5</sub> level
+[[Teacher P2 Q10 Correct c]]
+There have been no significant changes
+[[Teacher P2 Q10 Option d]]
+
+
+
+:: Teacher P2 Q11 {"position":"1975,50","size":"100,100"}
+If other teachers or staff ask you if CR Boxes can be used as long-term solutions, how should you reply?
+[[Teacher P2 Q11 Options]]
+
+
+:: Teacher P2 Q11 Correct d [Correct] {"position":"2100,300","size":"100,100"}
+Correct! CR boxes can assist current ventilation systems–if there are any in place–as long as the filters are changed at least every 8 months.
+
+
+:: Teacher P2 Q11 Option a {"position":"1900,300","size":"100,100"}
+Incorrect. CR boxes add extra ventilation and filtration for spaces but don’t entirely replace existing HVAC systems. It also requires its filters to be replaced to keep it working effectively.
+[[Teacher P2 Q11]]
+
+
+:: Teacher P2 Q11 Option b {"position":"1975,300","size":"100,100"}
+Incorrect. CR boxes can be used until they become less efficient, which can be seen if the monitor readings of CO<sub>2</sub> and PM<sub>2.5</sub> increase and don’t decrease back to stable numbers. Once this occurs, the filters need to be changed.
+[[Teacher P2 Q11]]
+
+
+:: Teacher P2 Q11 Option c {"position":"2050,300","size":"100,100"}
+Incorrect. CR boxes can be implemented in any room but should ideally be used in tandem with a pre-existing air ventilation system. They aren’t self-regulating since their efficiency has to be monitored then the filters need to be replaced when the IAQ monitor expresses diminished efficiency.
+[[Teacher P2 Q11]]
+
+
+:: Teacher P2 Q11 Options [Options] {"position":"1975,200","size":"100,100"}
+Validate their question and explain that CR boxes are permanent replacements for HVAC systems that require less maintenance as long as they are running.
+[[Teacher P2 Q11 Option a]]
+Mention that CR boxes are never able to stay in place longer than during a critical period, such as the one today with the presence of extreme pollution outside, so they need to be disposed of at the end of today.
+[[Teacher P2 Q11 Option b]]
+Explain that CR boxes are only needed in classrooms that don’t already have ceiling fans or air conditioners, and they self-regulate their own performance without needing additional support or confirmation from IAQ monitors.
+[[Teacher P2 Q11 Option c]]
+Emphasize that they shouldn’t be the only ventilation to rely on, but they can serve as an additional mitigation technique for up to 8 months and have to be checked on for efficiency using the IAQ monitor readings.
+[[Teacher P2 Q11 Correct d]]
+
+
+:: Teacher P2 Q12 {"position":"2550,50","size":"100,100"}
+Based on this announcement, what action(s) do you have to take?
+[[Teacher P2 Q12 Options]]
+
+
+:: Teacher P2 Q12 Correct c [Correct] {"position":"2575,275","size":"100,100"}
+Correct! Both of these are vital to keep everyone safe and ensure they have transportation set up. Keeping students and fellow staff safe not only during the school day but also as they leave the campus are both equally important.
+[[Teacher P2 Post-Q12 Commentary]]
+
+
+:: Teacher P2 Q12 Option a {"position":"2425,275","size":"100,100"}
+Incorrect. While this is correct to be as efficient as possible and keep everyone on the same page, there is a better answer to choose.
+[[Teacher P2 Q12]]
+
+
+:: Teacher P2 Q12 Option b {"position":"2500,275","size":"100,100"}
+Incorrect. While this is correct to account for each student’s needs and circumstances, there is a better answer to choose.
+[[Teacher P2 Q12]]
+
+
+:: Teacher P2 Q12 Option d {"position":"2650,275","size":"100,100"}
+Incorrect. While it would be ideal to know each of the student’s circumstances, this isn’t time-efficient for you and the administration has already sent out an update for them.
+[[Teacher P2 Q12]]
+
+
+:: Teacher P2 Q12 Options [Options] {"position":"2550,175","size":"100,100"}
+See if students have a mode of transportation set up for dismissal time, such as taking the bus or getting picked up by carpool drivers, parents, or guardians.
+[[Teacher P2 Q12 Option a]]
+Contact the administration with names of any students who don’t have transportation so they can set up transportation and/or after-school care for them.
+[[Teacher P2 Q12 Option b]]
+Both a and b
+[[Teacher P2 Q12 Correct c]]
+Contact each of the student’s parents, guardians, or carpool drivers individually to give them an update and check on their estimated arrival.
+[[Teacher P2 Q12 Option d]]
+
+
+:: Teacher P2 Q2 {"position":"575,50","size":"100,100"}
+Who will you mainly look out for communciation from?
+[[Teacher P2 Q2 Options]]
+
+
+:: Teacher P2 Q2 Correct b [Correct] {"position":"550,275","size":"100,100"}
+Correct! The administration will often relay information from the facility manager but the facility manager might contact you and other teachers if there are frequently asked questions or needs that have to be addressed directly.
+[[Teacher P2 Post-Q2 Commentary]]
+
+
+:: Teacher P2 Q2 Option a {"position":"500,275","size":"100,100"}
+Incorrect. The superintendent is overseeing multiple schools in the area but also outside the area in the local school district. While it is important that the administration keeps the superintendent in the loop, each school is experiencing unique situations that require immediate internal attention. The principal will directly talk to the superintendent when needed.
+[[Teacher P2 Q2]]
+
+
+:: Teacher P2 Q2 Option c {"position":"575,275","size":"100,100"}
+Incorrect. There is a correct answer here.
+[[Teacher P2 Q2]]
+
+
+:: Teacher P2 Q2 Option d {"position":"625,275","size":"100,100"}
+Incorrect. Having to promote communication between the superintendent, administration, and sometimes facility manager simultaneously would be difficult to maintain and possibly not give enough attention to each group. Additionally, your attention should be given to your students except when receiving vital correspondence.
+[[Teacher P2 Q2]]
+
+
+:: Teacher P2 Q2 Options [Options] {"position":"575,175","size":"100,100"}
+The superintendent
+[[Teacher P2 Q2 Option a]]
+The administration and sometimes facility manager
+[[Teacher P2 Q2 Correct b]]
+None of the above
+[[Teacher P2 Q2 Option c]]
+All of the above
+[[Teacher P2 Q2 Option d]]
+
+
+
+:: Teacher P2 Q3 {"position":"550,500","size":"100,100"}
+What is something you can do to help alleviate uncertainty during this time?
+[[Teacher P2 Q3 Options]]
+
+
+:: Teacher P2 Q3 Correct a. [Correct] {"position":"400,750","size":"100,100"}
+Correct! Since there aren’t any active flames in the area posing a threat, students are safe indoors away from the outdoor air pollution. Keeping them calm is critical during this time so the teacher can act accordingly with disruptive behaviors.
+[[Teacher P2 Q4]]
+
+
+:: Teacher P2 Q3 Option b {"position":"475,750","size":"100,100"}
+Incorrect. This might help with air flow on a regular day, but this would be letting outside contaminants infiltrate inside today.
+[[Teacher P2 Q3]]
+
+
+:: Teacher P2 Q3 Option c {"position":"550,750","size":"100,100"}
+Incorrect. This would take far too long to get the word out, while also potentially exposing occupants to outdoor air pollution when the principal enters their room.
+[[Teacher P2 Q3]]
+
+
+:: Teacher P2 Q3 Option d {"position":"625,750","size":"100,100"}
+Incorrect. This might be used in other scenarios, but this doesn’t have an impact in today’s situation. Instead, it could cause further confusion when the lights are turned off and blinds are shut since this since it more closely reflects and event such as a lockdown.
+[[Teacher P2 Q3]]
+
+
+:: Teacher P2 Q3 Options [Options] {"position":"550,625","size":"100,100"}
+Resume indoor activities to establish a sense of norm and lessen panic. 
+[[Teacher P2 Q3 Correct a.]]
+Crack open windows and doors that lead outside to let in fresh air and limit stuffiness in the building.
+[[Teacher P2 Q3 Option b]]
+Wait for the principal to visit each indoor space to explain the situation and reassure the students’ safety.
+[[Teacher P2 Q3 Option c]]
+Turn the lights off and blinds shut to prevent distractions and confusion.
+[[Teacher P2 Q3 Option d]]
+
+
+:: Teacher P2 Q4 {"position":"500,875","size":"100,100"}
+What is one resource you should utilize to monitor air quality conditions at the school?
+[[Teacher P2 Q4 Options]]
+
+
+:: Teacher P2 Q4 Correct a [Correct] {"position":"400,1125","size":"100,100"}
+Correct! IAQ monitors that are dispersed throughout the school will be able to provide a bigger picture of pollution including CO<sub>2</sub>, PM<sub>2.5</sub>, VOCs, temperature, and humidity, which accurately describes the room’s conditions. You should be checking the monitors frequently.
+[[Teacher P2 Q5]]
+
+
+:: Teacher P2 Q4 Option b {"position":"475,1125","size":"100,100"}
+Incorrect. This wouldn’t necessarily monitor the condition of air quality regardless of who is looking at them, which usually would be up to security guards or other designated faculty.
+[[Teacher P2 Q4]]
+
+
+:: Teacher P2 Q4 Option c {"position":"525,1125","size":"100,100"}
+Incorrect. While it is good practice to communicate air quality conditions within the school, it isn’t as accurate as being given quantitative values. Additionally, there is no need to keep the doors closed between enclosed indoor spaces or limit small periods of contact unless specified.
+[[Teacher P2 Q4]]
+
+
+:: Teacher P2 Q4 Option d {"position":"575,1125","size":"100,100"}
+Incorrect. The facility manager can’t go into each room and determine its air quality in a timely manner, nor would it be practical.
+[[Teacher P2 Q4]]
+
+
+:: Teacher P2 Q4 Options [Options] {"position":"500,1000","size":"100,100"}
+IAQ monitors
+[[Teacher P2 Q4 Correct a]]
+Security camera systems feed
+[[Teacher P2 Q4 Option b]]
+Walkie-talkies to discuss across the front office space without having to open your door to contact each other
+[[Teacher P2 Q4 Option c]]
+Leave the air quality monitoring to the facility manager
+[[Teacher P2 Q4 Option d]]
+
+
+:: Teacher P2 Q5 {"position":"500,1250","size":"100,100"}
+Go ahead and look at your monitor’s current readings. What can you conclude about the change in indoor air quality by comparing these two monitors?
+[[Teacher P2 Q5 5.1]]
+
+
+:: Teacher P2 Q5 5.1 {"position":"375,1375","size":"100,100"}
+Previous monitor display: Green RBG lights
+- CO<sub>2</sub>: 787
+- PM<sub>2.5</sub>: 19
+- Temperature: 23.5°C (74.3°F)
+- Humidity: 36%
+[[Teacher P2 Q5 5.2]]
+
+
+:: Teacher P2 Q5 5.2 {"position":"600,1375","size":"100,100"}
+Current monitor display: Green RBG lights
+- CO<sub>2</sub>: 831
+- PM<sub>2.5</sub>: 19
+- Temperature: 23.5°C (74.3°F)
+- Humidity: 37%
+[[Teacher P2 Q5 Options]]
+
+
+:: Teacher P2 Q5 Correct d [Correct] {"position":"575,1650","size":"100,100"}
+Correct! The CO<sub>2</sub> <sub>2</sub>has increased but it still falls under 1,000 ppm and within the “good” range. You should continue to check on it even thought it is current at a healthy air quality.
+
+
+:: Teacher P2 Q5 Option a {"position":"375,1650","size":"100,100"}
+Incorrect. The CO<sub>2</sub> level still falls under 1,000 ppm and within the “good” range.
+[[Teacher P2 Q5]]
+
+
+:: Teacher P2 Q5 Option b {"position":"450,1650","size":"100,100"}
+Incorrect. Neither CO<sub>2</sub> or PM<sub>2.5</sub> have fallen into the “poor” range. While the CO<sub>2</sub> still falls under 1,000 ppm and within the “good” range, the PM<sub>2.5</sub> hasn’t changed since the last time you checked.
+[[Teacher P2 Q5]]
+
+
+:: Teacher P2 Q5 Option c {"position":"525,1650","size":"100,100"}
+Incorrect. The PM<sub>2.5</sub> hasn’t increased or decreased since first checking.
+[[Teacher P2 Q5]]
+
+
+:: Teacher P2 Q5 Options [Options] {"position":"500,1500","size":"100,100"}
+The CO<sub>2</sub> level has increased into the “moderate” range, indicating that extra ventilation is needed.
+[[Teacher P2 Q5 Option a]]
+The CO<sub>2</sub> and PM<sub>2.5</sub> levels have increased into the “poor” range, meaning that current air circulation is insufficient and health risks have skyrocketed.
+[[Teacher P2 Q5 Option b]]
+The PM<sub>2.5</sub> has increased to dangerous levels.
+[[Teacher P2 Q5 Option c]]
+The CO<sub>2</sub> level has increased but still falls within the “good” range.
+[[Teacher P2 Q5 Correct d]]
+
+
+
+:: Teacher P2 Q6 {"position":"1125,175","size":"100,100"}
+Although you’re not an expert on air quality, how might the AQI be useful for you?
+[[Teacher P2 Q6 Options]]
+
+
+:: Teacher P2 Q6 Correct a [Correct] {"position":"1125,425","size":"100,100"}
+Correct! It provides a baseline for healthy levels of PM<sub>2.5</sub> outside, which is especially helpful for understanding when concentrations become unhealthy.
+
+
+:: Teacher P2 Q6 Option b {"position":"1250,425","size":"100,100"}
+Incorrect. This is not what the AQI measures or provides. Look more carefully.
+[[Teacher P2 Q6]]
+
+
+:: Teacher P2 Q6 Option c {"position":"1000,425","size":"100,100"}
+Incorrect. This is not what the AQI measures or provides. Look more carefully.
+[[Teacher P2 Q6]]
+
+
+:: Teacher P2 Q6 Option d {"position":"1125,550","size":"100,100"}
+Incorrect. While this answer is related to air quality outside, this is not what the AQI measures or provides. Look more carefully.
+[[Teacher P2 Q6]]
+
+
+:: Teacher P2 Q6 Options [Options] {"position":"1125,300","size":"100,100"}
+AQI guidelines from the EPA and health agencies provide specific thresholds for when to limit or cancel outdoor activity.
+[[Teacher P2 Q6 Correct a]]
+Estimates when the wildfire smoke will arrive near your school.
+[[Teacher P2 Q6 Option b]]
+c. Compares the temperature between today and yesterday to detect unusual changes as a result of the wildfire event and the smoke that followed.
+[[Teacher P2 Q6 Option c]]
+Calculates how long students, teachers, and staff can be exposed to the outside air before symptoms such as respiratory irritation begins.
+[[Teacher P2 Q6 Option d]]
+
+
+
+:: Teacher P2 Q7 {"position":"1400,175","size":"100,100"}
+What do you gather from the current data in terms of the effects of the outdoor pollution on the IAQ?
+[[Teacher P2 Q7 7.1]]
+
+
+:: Teacher P2 Q7 7.1 {"position":"1325,300","size":"100,100"}
+Previous monitor display: Green RBG lights
+- CO<sub>2</sub>: 831
+- PM<sub>2.5</sub>: 19
+- Temperature: 23.5°C (74.3°F)
+- Humidity: 37%
+[[Teacher P2 Q7 7.2]]
+
+
+:: Teacher P2 Q7 7.2 {"position":"1550,300","size":"100,100"}
+Current monitor display: Yellow RBG lights
+- CO<sub>2</sub>: 1,203
+- PM<sub>2.5</sub>: 19
+- Temperature: 23.5°C (74.3°F)
+- Humidity: 38%
+[[Teacher P2 Q7 Options]]
+
+
+:: Teacher P2 Q7 Correct a [Correct] {"position":"1375,525","size":"100,100"}
+Correct! The CO<sub>2</sub> level is 1,201 ppm, which falls between the 1,000 to 1,400 ppm “moderate” range accompanied by the yellow RBG lights that confirm that the air quality is “moderate” in this room of the office rather than the whole school or building itself.
+[[Teacher P2 Q8]]
+
+
+:: Teacher P2 Q7 Option b {"position":"1425,525","size":"100,100"}
+Incorrect. The current CO<sub>2</sub> level measures 1,201, which falls in the “moderate” range of 1,000 to 1,400 ppm. The “poor” range extends beyond 1,400 ppm.
+[[Teacher P2 Q7]]
+
+
+:: Teacher P2 Q7 Option c {"position":"1450,525","size":"100,100"}
+Incorrect. While this information is correct, it does not indicate the air quality level throughout the entire school. Different rooms and buildings in the school can have different levels of air quality.
+[[Teacher P2 Q7]]
+
+
+:: Teacher P2 Q7 Option d {"position":"1525,525","size":"100,100"}
+Incorrect. The PM<sub>2.5</sub> level has increased from 17 to 38 since you last checked, which actually indicates an increase.
+[[Teacher P2 Q7]]
+
+
+:: Teacher P2 Q7 Options [Options] {"position":"1425,400","size":"100,100"}
+The CO<sub>2</sub> and RBG lights indicate a “moderate” air quality level in this room of the office.
+[[Teacher P2 Q7 Correct a]]
+The CO<sub>2</sub> level indicates a “poor” air quality level in this room of the office.
+[[Teacher P2 Q7 Option b]]
+The CO<sub>2</sub> and RBG lights indicate a “moderate” air quality level throughout the entire school.
+[[Teacher P2 Q7 Option c]]
+The PM<sub>2.5</sub> level is lower now than when previously checked.
+[[Teacher P2 Q7 Option d]]
+
+
+
+:: Teacher P2 Q8 {"position":"1450,650","size":"100,100"}
+Should you send your monitor’s readings to the facility manager?
+[[Teacher P2 Q8 Options]]
+
+
+:: Teacher P2 Q8 Correct a [Correct] {"position":"1375,900","size":"100,100"}
+Correct! Even if your monitor was indicating “good” air quality, you should still send it to the facility manager so they can keep track across your facility regardless of circumstances.
+[[Teacher P2 Post-Q8 Commentary]]
+
+
+:: Teacher P2 Q8 Option b {"position":"1450,900","size":"100,100"}
+Incorrect. You have to send your monitor to the facility manager because not only has your air quality has worsened to “moderate” since the smoke started affecting the area, but also the facility manager has requested everyone sends their monitor readings to them.
+[[Teacher P2 Q8]]
+
+
+:: Teacher P2 Q8 Options [Options] {"position":"1450,775","size":"100,100"}
+a. Yes 
+[[Teacher P2 Q8 Correct a]]
+b. No
+[[Teacher P2 Q8 Option b]]
+
+
+
+:: Teacher P2 Q9 {"position":"1400,1150","size":"100,100"}
+Another 6th-grade homeroom teacher whose classroom connects with yours via a small indoor hallway comes in and asks you for help because the CO<sub>2</sub> level on their monitor has skyrocketed. What might you tell them to do to help with CO<sub>2</sub> build up?
+[[Teacher P2 Q9 Options]]
+
+
+:: Teacher P2 Q9 Correct b [Correct] {"position":"1350,1400","size":"100,100"}
+Correct! This promotes air flow between the classroom and hallways to give the CO<sub>2</sub> more room to disperse. You might even encourage other classrooms in the hallway of your building to open their doors as well if they are experiencing the same issue.
+
+
+:: Teacher P2 Q9 Option a {"position":"1300,1400","size":"100,100"}
+Incorrect. This will likely block any ventilation system currently in place, which is designed to promote air circulation, not necessarily push it into a room.
+[[Teacher P2 Q9]]
+
+
+:: Teacher P2 Q9 Option c {"position":"1400,1400","size":"100,100"}
+Incorrect. Even slightly cracking the windows can still allow outside air pollution to enter the classroom. Windows should only be opened to promote airflow if the air quality is healthy outside.
+[[Teacher P2 Q9]]
+
+
+:: Teacher P2 Q9 Option d {"position":"1450,1400","size":"100,100"}
+Incorrect. This won’t directly do anything to increase circulation and decrease CO<sub>2</sub> concentration.
+[[Teacher P2 Q9]]
+
+
+:: Teacher P2 Q9 Options [Options] {"position":"1400,1275","size":"100,100"}
+Cover the air vents since it seems to be pushing CO<sub>2</sub> in their classroom.
+[[Teacher P2 Q9 Option a]]
+Open the classroom door that leads into the hallway.
+[[Teacher P2 Q9 Correct b]]
+Slightly crack any windows in the classroom to allow CO<sub>2</sub> to escape outside without letting outside pollutants inside.
+[[Teacher P2 Q9 Option c]]
+Closing the blinds over any windows in the classroom.
+[[Teacher P2 Q9 Option d]]
+
+
+
+:: Teacher Pre-CR Box Build P2 {"position":"1850,50","size":"100,100"}
+Now, you must assemble a CR box. You will still have the instructions.
+
+
+:: Teacher Window Closing {"position":"400,50","size":"100,100"}
+After talking to your students about why we are preventing outside air from coming inside, you remember that your window is still open! This has to be done as soon as possible to prevent future readings from being messed up.
+
+
+:: Third Email from Admin Forwarded [Alert/Update] {"position":"1525,50","size":"100,100"}
+Forwarded From: Administration
+
+Subject: Important Update: Worsening Air Quality and CR Box Implementation
+
+Dear Teachers and Staff,
+
+We want to inform you that the air quality in our area has worsened due to ongoing wildfire smoke, with the Air Quality Index (AQI) now in the Unhealthy range. To help mitigate the pollutants and protect the health and safety of our students and staff, we will be requiring all classrooms and other rooms to build a Corsi-Rosenthal (CR) Box.
+
+Key details:
+1. Instructions already in every occupied room
+2. The supplies you will need are in every storage supply closet on campus, go to the one nearest to you
+3. Make sure to plug them in once built to test any cracks/gaps and to get it running as soon as possible
+
+We appreciate your cooperation and understanding as we work to keep our school community safe. We will continue to monitor conditions closely and provide updates as needed.
+
+If you have questions or concerns, please don’t hesitate to contact me or the rest of my office.
+Thank you,
+Facility Manager
+

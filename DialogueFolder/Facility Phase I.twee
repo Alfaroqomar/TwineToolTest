@@ -1,0 +1,301 @@
+:: StoryTitle
+WARM Game Demo #2
+
+
+:: StoryData
+{
+  "ifid": "886C5E86-9C97-4403-8550-4CA83665987F",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Facility Intro",
+  "tag-colors": {
+    "Options": "orange",
+    "Correct": "green"
+  },
+  "zoom": 1
+}
+
+
+:: After CR Box Building {"position":"950,550","size":"100,100"}
+Since this was just a practice build, you can’t implement this CR box in your room to increase ventilation. Instead, this CR box will reset after this phase and you will be instructed to build more as you progress to other phases of the game.
+
+
+:: AirNow 1.1 {"position":"475,175","size":"100,100"}
+AirNow.gov is a handy resource that enables you to look up the current outdoor air quality of a specific location. Simply provide the website with a zip code, city, or state to access the air quality data of that location.
+[[AirNow 1.2]]
+
+
+:: AirNow 1.2 {"position":"475,300","size":"100,100"}
+Type a zip code into the following browser to check the outdoor air quality in your state, or use 85281 to check the current data for Tempe, AZ. AirNow.gov will show you the current outdoor air quality of your specific location, and where it falls in the U.S. Air Quality Index (AQI). The AQI is a color-coded scale from 0 to 500 that communicates air quality and indicates if the air quality is “good”, “moderate”, “unhealthy for sensitive groups”, “unhealthy”, “very unhealthy”, or “hazardous”.
+[[AirNow 1.3]]
+
+
+:: AirNow 1.3 {"position":"275,325","size":"100,100"}
+Other noteworthy statistics and resources can be accessed from AirNow.gov, too, such as: which pollutants are most present in your area, fire and smoke maps, maps showing where air quality monitors are located in your area, and graphs depicting recent air quality trends near you. This is a great resource to quickly access and assess your outdoor air quality conditions. Depending on the state of your external conditions, it may be advised that you limit outdoor activity and take precautions to improve or maintain the Indoor Air Quality (IAQ) of your facility.
+
+
+:: AirNow Intro {"position":"475,50","size":"100,100"}
+Since buildings are not completely air-tight structures, it’s always important to understand the current conditions in your area to better manage your Indoor Air Quality (IAQ) conditions.
+[[AirNow 1.1]]
+
+
+:: CR Box Intro Text {"position":"950,25","size":"100,100"}
+These are instructions on how to build a Corsi-Rosenthal (CR) box, a cost-effective DIY air filter.
+[[CR Box Intro Text 1.1]]
+
+
+:: CR Box Intro Text 1.1 {"position":"950,150","size":"100,100"}
+The box pulls in air from its surrounding space through four HVAC filters, then traps particles called <b>Particulate Matter (PM)</b> and pushes clean, filtered air through the box fan.
+[[CR Box Intro Text 1.2]]
+
+
+:: CR Box Intro Text 1.2 {"position":"950,275","size":"100,100"}
+PM consists of materials of different sizes, some of which are invisible to the naked eye. The particles may be inhaled, thereby causing health issues as amounts increase over time.
+[[CR Box Intro Text 1.3]]
+
+
+:: CR Box Intro Text 1.3 {"position":"950,400","size":"100,100"}
+Other particles that can be filtered out include respiratory droplets that may contain viruses. In addition, CR boxes that contain carbon filters or are wrapped with an activated carbon cloth can then remove volatile gases. It’s important to understand what fits the needs of your environment.
+[[CR Box Intro Text 1.4]]
+
+
+:: CR Box Intro Text 1.4 {"position":"1075,525","size":"100,100"}
+Now, let’s learn how to build one of them! This could be important, especially when experiencing high concentrations of PM!
+
+
+:: CRBoxManual {"position":"1150,25","size":"100,100"}
+The first step is to assemble the 4 MERV 13 air filters in a symmetrical, square configuration. Always make sure the pleats are oriented vertically, the arrows are pointing inwards, and all four edges are duct taped and sealed so air doesn’t escape. 3M MPR 1900 filters or other acceptable HVAC filters can also be used.
+[[CRBoxManual1.1]]
+
+
+:: CRBoxManual1.1 {"position":"1150,150","size":"100,100"}
+The next step is to duct tape a measured piece of cardboard onto the opening below the square configuration of filters.
+[[CRBoxManual1.2]]
+
+
+:: CRBoxManual1.2 {"position":"1150,275","size":"100,100"}
+Now, we must put the box fan on top of the other opening, attaching it to the filter structure and sealing it completely.
+[[CRBoxManual1.3]]
+
+
+:: CRBoxManual1.3 {"position":"1150,400","size":"100,100"}
+Finally, we have to cut a shroud with a large circle cut in the middle and attach it to the top of the fan with duct tape, and again sealing any gaps. A shroud is a piece of cardboard cut into a circle and attached to the air outlet of a box fan to improve its efficiency and airflow.
+[[CRBoxManual1.4]]
+
+
+
+:: CRBoxManual1.4 {"position":"1275,525","size":"100,100"}
+You have successfully built a Corsi-Rosenthal box! Take a moment to admire your work and remember the steps for future use!
+[[Post-CRBoxManual]]
+
+
+:: Facility 1.1 {"position":"350,175","size":"100,100"}
+Let’s walk around explore your office to learn about some of the factors that influence indoor air quality at your facility.
+
+
+:: Facility Intro {"position":"350,50","size":"100,100"}
+You have chosen to be the <b>Facility Manager</b> for a K-12 school building in your local school district. You are responsible for the upkeep, compliance, and improvement of the school building you oversee.
+[[Facility 1.1]]
+
+
+:: Facility P1 Post-Activities {"position":"625,50","size":"100,100"}
+You might have noticed the term 'IAQ’ mentioned in relation to some of the objects around your office. <b>Indoor Air Quality (IAQ)</b> describes the air quality within buildings. Outdoor air can easily enter indoor spaces through doors, windows, and any other small openings, like cracks or gaps. Mechanical ventilation in HVAC systems brings in fresh outside air to ensure a consistent flow of air, which can bring pollutants into indoor environments.
+[[Facility P2 Pre-Quiz]]
+
+
+:: Facility P1 Q1 Correct b [Correct] {"position":"825,425","size":"100,100"}
+Correct! As mentioned while encountering the IAQ monitor and air freshener in your office, Volatile Organic Compounds (VOCs) are harmful chemicals that can be produced from cleaning supplies, air fresheners, new furniture fumes, and more. Total Volatile Organic Compounds (TVOCs) represent the total amount of VOCs that have accumulated.
+[[Facility Quiz Q2]]
+
+
+:: Facility P1 Q1 Option a {"position":"700,425","size":"100,100"}
+Incorrect. Although these contain air quality-related words, this is not what either term stands for or represents. Think back to reading different measurements from the IAQ monitor and investigating the air freshener.
+[[Facility Quiz Q1]]
+
+
+:: Facility P1 Q1 Option c {"position":"575,425","size":"100,100"}
+Incorrect. Think back to reading different measurements from the IAQ monitor and investigating the air freshener.
+[[Facility Quiz Q1]]
+
+
+:: Facility P1 Q1 Option d {"position":"700,550","size":"100,100"}
+Incorrect. Think back to reading different measurements from the IAQ monitor and investigating the air freshener.
+[[Facility Quiz Q1]]
+
+
+:: Facility P1 Q2 Correct c [Correct] {"position":"700,800","size":"100,100"}
+Correct! This matches up with the description when you were shown how to read the IAQ monitor and what each value means. PM<sub>1</sub> is 1 μm and smaller, PM<sub>2.5</sub> is 2.5 μm and smaller, and PM<sub>10</sub> is 10 μm and smaller. Finer Particulate Matter with a lower subscript is so small that it can infiltrate the lungs and then lead to further severe issues and irritation.
+[[Facility Quiz Q3]]
+
+
+:: Facility P1 Q2 Option a {"position":"825,800","size":"100,100"}
+Incorrect. Think back to reading the IAQ monitor and understanding the health impacts of different PMs on air quality.
+[[Facility Quiz Q2]]
+
+
+:: Facility P1 Q2 Option b {"position":"950,800","size":"100,100"}
+Incorrect. Think back to reading the IAQ monitor and understanding the health impacts of different PMs on air quality.
+[[Facility Quiz Q2]]
+
+
+:: Facility P1 Q2 Option d {"position":"825,925","size":"100,100"}
+Incorrect. Think back to reading the IAQ monitor and understanding the health impacts of different PMs on air quality.
+[[Facility Quiz Q2]]
+
+
+:: Facility P1 Q3 Correct d [Correct] {"position":"700,1300","size":"100,100"}
+Correct! When building a CR box, you have to ensure the right orientation by facing the arrows on the filters inward, connecting and sealing the four filters, and placing the filters where pleats are vertical.
+[[Facility Quiz Q4]]
+
+
+:: Facility P1 Q3 Option a {"position":"700,1175","size":"100,100"}
+Incorrect. Although this might be true to make sure air flows into the box to get filtered out, there is still a better answer to consider when remembering the steps to building a CR box.
+[[Facility Quiz Q3]]
+
+
+:: Facility P1 Q3 Option b {"position":"825,1175","size":"100,100"}
+Incorrect. Although this might be true to prevent air and trapped pollutants from escaping, there is still a better answer to consider when remembering the steps to building a CR box.
+[[Facility Quiz Q3]]
+
+
+:: Facility P1 Q3 Option c {"position":"575,1175","size":"100,100"}
+Incorrect. Although this might be true to maximize efficiency, there is still a better answer to consider when remembering the steps to building a CR box.
+[[Facility Quiz Q3]]
+
+
+:: Facility P1 Q4 Correct c [Correct] {"position":"575,1675","size":"100,100"}
+Correct! Even if they don’t increase significantly or there isn’t a long-term effect on the environment’s VOCs, the levels will first rise because of the high concentration of VOCs being released into the air at once.
+[[Facility Quiz Q5]]
+
+
+:: Facility P1 Q4 Option a {"position":"700,1675","size":"100,100"}
+Incorrect. Air fresheners and other aerosols shouldn’t directly impact the CO<sub>2</sub> level.
+[[Facility Quiz Q4]]
+
+
+:: Facility P1 Q4 Option b {"position":"825,1675","size":"100,100"}
+Incorrect. Remember back to the exercises and which one gave information about VOCs.
+[[Facility Quiz Q4]]
+
+
+:: Facility P1 Q4 Option d {"position":"700,1800","size":"100,100"}
+Incorrect. Although the temperature might rise in the room at random or due to other factors, VOCs won’t directly affect it.
+[[Facility Quiz Q4]]
+
+
+:: Facility P1 Q5 Correct d [Correct] {"position":"675,2300","size":"100,100"}
+Correct! Since they should be changed every 3 to 6 months, having them recently switched out can push off excess ventilation needs unless the IAQ monitors begin indicating the need. Sharing this information with school faculty previously can also keep them informed before they resort to finding additional ventilation that they might not need yet, or another room’s circumstances might potentially require.
+[[Post-Quiz Message]]
+
+
+:: Facility P1 Q5 Option a {"position":"675,2200","size":"100,100"}
+Incorrect. Although recognition is valuable and necessary, the primary goal of noting the timing is to ensure that faculty have actionable information to maintain healthy indoor air. Air filters have to be changed out after a duration of time.
+[[Facility Quiz Q5]]
+
+
+:: Facility P1 Q5 Option b {"position":"800,2225","size":"100,100"}
+Incorrect. Compliance is important, which is another factor, but the more urgent reason to note the time filters were replaced is that it equips faculty with timely air quality information.
+[[Facility Quiz Q5]]
+
+
+:: Facility P1 Q5 Option c {"position":"550,2200","size":"100,100"}
+Incorrect. While scheduling around events is important and followed in the school, the key reason for tracking and sharing upkeep is to support air quality awareness.
+[[Facility Quiz Q5]]
+
+
+:: Facility P2 Pre-Quiz {"position":"750,175","size":"100,100"}
+Now that you've explored your office, it's time to show what you've learned thus far!
+[[Facility Quiz Q1]]
+
+
+:: Facility Q1 Options [Options] {"position":"700,300","size":"100,100"}
+a. VOCs are Ventilation Output Controls, while TVOCs are the Total Volume of Oxygen Circulating. They range from fan speed settings to open window airflow rates that can be witnessed in mitigation measures, but backfire.
+[[Facility P1 Q1 Option a]]
+b. VOCs are Volatile Organic Compounds, while TVOCs are the Total Volatile Organic Compounds in the air. They are gases that are present in the air. They emerge from many sources, including cleaning products, air fresheners, and new furniture.
+[[Facility P1 Q1 Correct b]]
+c. VOCs are Vapor-Originating Contaminants, while TVOCs are Temperature-Volatile Organic Compounds. They are products of natural mists and fog particles that affect visibility in humid environments. They are byproducts of morning dew to shower steam that release toxic chemicals into the air.
+[[Facility P1 Q1 Option c]]
+d. VOCs are Vacuum-Operated Cleaners, while TVOCs are the Total Volume of Collected dust. They describe how air purifiers and vacuums aid in removing particles in indoor spaces. They range from qualitative information, such as filter capacity, to suction efficiency.
+[[Facility P1 Q1 Option d]]
+
+
+:: Facility Q2 Options [Options] {"position":"825,675","size":"100,100"}
+a. They all refer to Pressure Measurements in the air, with the numbers indicating the amount of atmospheric pressure in kilopascals (kPa). PM<sub>1</sub> is low pressure, PM<sub>2.5</sub> is moderate pressure, and PM<sub>1</sub> is high pressure.
+[[Facility P1 Q2 Option a]]
+b. They all describe Pollution Measures but are based on the number of pollution sources in an area. PM<sub>1</sub> accounts for Pollution Measures from a single source one mile away, PM<sub>2.5</sub> for multiple sources within 2.5 miles, and PM<sub>10</sub> includes all Pollution Measures in a 10-mile radius.
+[[Facility P1 Q2 Option b]]
+c. They all stand for Particulate Matter, which are solids and liquids that can be found suspended in the air. Each size is in micrometers (μm), indicated in the subscript.
+[[Facility P1 Q2 Correct c]]
+d. They stand for Power Mode settings on the IAQ monitors, with PM<sub>1</sub> being the lowest and PM<sub>10</sub> being the highest. They control how aggressively the device filters the air, with PM<sub>10</sub> capturing more particles than PM<sub>1</sub>.
+[[Facility P1 Q2 Option d]]
+
+
+:: Facility Q3 Options [Options] {"position":"700,1050","size":"100,100"}
+a. The arrows on the filters are facing inward.
+[[Facility P1 Q3 Option a]]
+b. The arrows on the filters are facing inward, and the connections between the four filters are completely sealed with duct tape.
+[[Facility P1 Q3 Option b]]
+c. The arrows on the filters are facing inward, and the pleats are oriented vertically when sitting upright.
+[[Facility P1 Q3 Option c]]
+d. All of the above are necessary.
+[[Facility P1 Q3 Correct d]]
+
+
+:: Facility Q4 Options [Options] {"position":"700,1550","size":"100,100"}
+a. CO<sub>2</sub> levels will increase.
+[[Facility P1 Q4 Option a]]
+b. There will be no immediate or long-term effect.
+[[Facility P1 Q4 Option b]]
+c. VOC levels will increase.
+[[Facility P1 Q4 Correct c]]
+d. The temperature will rise significantly.
+[[Facility P1 Q4 Option d]]
+
+
+:: Facility Q5 Options [Options] {"position":"700,2100","size":"100,100"}
+a. For custodial staff to receive credit for the work they’ve done and be properly recognized in school-wide communications.
+[[Facility P1 Q5 Option a]]
+b. To show district compliance with building maintenance policies during inspections or audits.
+[[Facility P1 Q5 Option b]]
+c. To make sure the maintenance schedule is aligned with upcoming school events and avoids disrupting their learning and daily activities.
+[[Facility P1 Q5 Option c]]
+d. Having a timeframe for when new filters were last installed in the building.
+[[Facility P1 Q5 Correct d]]
+
+
+:: Facility Quiz Q1 {"position":"600,175","size":"100,100"}
+1. What are VOCs and TVOCs, and what do they stand for?
+[[Facility Q1 Options]]
+
+
+:: Facility Quiz Q2 {"position":"825,550","size":"100,100"}
+2. How are PM<sub>1</sub>, PM<sub>2.5</sub>, and PM<sub>10</sub> similar and different?
+[[Facility Q2 Options]]
+
+
+:: Facility Quiz Q3 {"position":"700,925","size":"100,100"}
+3. What is important to do when orienting the filters in the Corsi-Rosenthal (CR) box?
+[[Facility Q3 Options]]
+
+
+:: Facility Quiz Q4 {"position":"700,1425","size":"100,100"}
+4. What might happen if an air freshener is sprayed near an IAQ monitor?
+[[Facility Q4 Options]]
+
+
+:: Facility Quiz Q5 {"position":"700,1950","size":"100,100"}
+5. Why is it important to not only have noted on your calendar when maintenance and upkeep have been completed at the school but also to share that announcement with school staff and teachers?
+[[Facility Q5 Options]]
+
+
+:: Post-CRBoxManual {"position":"1275,650","size":"100,100"}
+After a CR box is built and turned on by plugging the box fan into a nearby outlet, it can clean the air for up to 8 months. After it isn’t functioning as efficiently around the 8-month mark, some parts can be reused. Remove the dirty filters and dispose of them, and reuse the fan and shroud. The new filters can be added, securing everything with tape as previously done.
+[[Post-CRBoxManual2]]
+
+
+:: Post-CRBoxManual2 {"position":"1275,775","size":"100,100"}
+Since this was just a practice build, you can’t implement this CR box in your room to increase ventilation. Instead, this CR box will reset after this phase, and you will be instructed to build more as you progress to other phases of the game.
+
+
+:: Post-Quiz Message {"position":"675,2425","size":"100,100"}
+Awesome job on the questions! Even if you didn’t get all of them correct on the first attempt, making mistakes is how you learn! Reading through why an answer is correct or incorrect will prepare you more than if you simply went into it blindly. You just took the first step towards mastering these skills!

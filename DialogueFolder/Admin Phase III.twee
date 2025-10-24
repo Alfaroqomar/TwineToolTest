@@ -1,0 +1,457 @@
+:: StoryTitle
+Admin Phase III
+
+
+:: StoryData
+{
+  "ifid": "A7EDE26C-5441-4895-83F8-1D0B10ED0FCD",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Admin P3 Intro",
+  "tag-colors": {
+    "Options": "orange",
+    "Correct": "green"
+  },
+  "zoom": 1
+}
+
+
+:: Admin Intro Correct a {"position":"350,675","size":"100,100"}
+Correct! CR box filters can effectively remove pollutants for a considerable amount of time. As long as teachers and staff understand how to monitor the effectiveness of the boxes and when to change out filters, they can maintain the portable air cleaners. Since the air pollution outside won’t immediately go back to normal levels, it is helpful to keep the CR boxes operating to filter out excess particles and circulate the air.
+[[Admin Intro Post-Q2]]
+
+
+:: Admin Intro Option b {"position":"200,675","size":"100,100"}
+Incorrect. Their filters can effectively filter out pollutants for up to 8 months. There is no reason to move or take them apart as long as they maintain high
+efficiency. The outside air won’t immediately be fully safe after today, so these
+precautions should continue.
+[[Admin Intro Q2]]
+
+
+:: Admin Intro Post-Q2 {"position":"325,800","size":"100,100"}
+Exposing people, especially sensitive groups, to dangerous levels of pollutants, even temporarily, can have effects that impact not only breathing function but also other vital functions.
+
+
+:: Admin Intro Q1 {"position":"300,25","size":"100,100"}
+If the air quality remains unhealthy for several days, what is the most appropriate next step for a school administrator?
+[[Admin Intro Q1 Options]]
+
+
+:: Admin Intro Q1 Correct a {"position":"175,275","size":"100,100"}
+Correct! For multi-day smoke events, maintaining indoor-only activities, recirculating indoor air, and checking AQI regularly is the safest and most practical approach. School closures are rare and only necessary if indoor air can’t be kept safe.
+[[Admin Intro Q2]]
+
+
+:: Admin Intro Q1 Options [Options] {"position":"300,150","size":"100,100"}
+Continue the same precautions and monitor AQI daily.
+[[Admin Intro Q1 Correct a]]
+Dismiss students early each day until conditions improve.
+[[Admin Intro Q2 Option b]]
+Move all students to one building with an air filter.
+[[Admin Intro Q2 Option c]]
+Cancel school entirely until outdoor air improves.
+[[Admin Intro Q2 Option d]]
+
+
+:: Admin Intro Q2 {"position":"325,425","size":"100,100"}
+Should you continue to use CR boxes in rooms after today?
+[[Admin Intro Q2 Options]]
+
+
+:: Admin Intro Q2 Option b {"position":"250,275","size":"100,100"}
+Incorrect. There are still mitigation techniques that can be followed and implemented instead of having to keep sending students home.
+[[Admin Intro Q1]]
+
+
+:: Admin Intro Q2 Option c {"position":"275,275","size":"100,100"}
+Incorrect. Students should still be kept in their normal classrooms instead of being consolidated into one building that might not be able to provide proper ventilation to excess occupants.
+[[Admin Intro Q2]]
+
+
+:: Admin Intro Q2 Option d {"position":"325,275","size":"100,100"}
+Incorrect. There are still mitigation techniques that can be followed and implemented instead of outright canceling school.
+[[Admin Intro Q1]]
+
+
+:: Admin Intro Q2 Options [Options] {"position":"325,550","size":"100,100"}
+Yes
+[[Admin Intro Correct a]]
+No
+[[Admin Intro Option b]]
+
+
+
+:: Admin P3 1.1 {"position":"75,150","size":"100,100"}
+It is just as important to plan ahead and review response protocols as it is to keep your facility safe during times of high pollution.
+
+
+:: Admin P3 Intro {"position":"75,25","size":"100,100"}
+Since the smoke plumes have significantly dissipated near your facility, local officials have announced that it is safe for your school’s staff and students to leave. You are sticking around to continue communication with any occupants that remain, whether they are watching over students or unable to get transportation themselves. Additionally, the rest of your office is also staying to go over precautions for the following weeks.
+[[Admin P3 1.1]]
+
+
+:: Admin Post-Test Commentary {"position":"750,5025","size":"100,100"}
+Now that you finished the final questions, you have officially completed the Administrator role in PREPARE.
+
+
+:: Admin Pre-Test Commentary {"position":"750,25","size":"100,100"}
+Now that you’ve reached the end of this course, let’s see what you have learned! The following questions only allow one attempt for each, so think through each answer before selecting it! Scoring 70% or above is passing.
+
+
+:: Admin Test Q1 {"position":"750,150","size":"100,100"}
+1. What are VOCs and where do they primarily come from?
+[[Admin Test Q1 Options]]
+
+
+:: Admin Test Q1 Correct a [Correct] {"position":"750,400","size":"100,100"}
+Correct!
+[[Admin Test Q2]]
+
+
+:: Admin Test Q1 Option b {"position":"875,400","size":"100,100"}
+Incorrect.
+[[Admin Test Q2]]
+
+
+:: Admin Test Q1 Option c {"position":"625,400","size":"100,100"}
+Incorrect.
+[[Admin Test Q2]]
+
+
+:: Admin Test Q1 Option d {"position":"1000,400","size":"100,100"}
+Incorrect.
+[[Admin Test Q2]]
+
+
+:: Admin Test Q1 Options [Options] {"position":"750,275","size":"100,100"}
+a. Volatile Organic Compounds (VOCs) can damage our health during prolonged exposure and are seen in higher concentrations indoors than outdoors. They’re released by common items such as air fresheners, cleaning products, appliances, and new furniture fumes.
+[[Admin Test Q1 Correct a]]
+b. Ventilation output controls (VOCs) are variants of fan speed settings and other airflow rates that can be witnessed in mitigation measures, but often backfire. They’re released by common air conditioning systems and fans that are plugged in for too long.
+[[Admin Test Q1 Option b]]
+c. Vapor-Originating Contaminants (VOCs) are harmful products of natural mists and fog particles that affect visibility in humid environments. They can infiltrate our lungs and interact with receptors that impair various bodily functions. They are byproducts of morning dew but can also be produced by appliances that release these toxic contaminants into the air.
+[[Admin Test Q1 Option c]]
+d. Vacuum-Operated Cleaners (VOCs) are vacuum attachments that predict the efficiency of air purifiers and vacuums, aiding in the removal of particles in indoor spaces, but they become toxic when there are too many in one space. They range from qualitative information, such as filter capacity, to suction efficiency.
+[[Admin Test Q1 Option d]]
+
+
+
+:: Admin Test Q10 {"position":"750,4500","size":"100,100"}
+10. How are PM<sub>1</sub>, PM<sub>2.5</sub>, and PM<sub>10</sub> similar and different?
+[[Admin Test Q10 Options]]
+
+
+:: Admin Test Q10 Correct c [Correct] {"position":"625,4750","size":"100,100"}
+Correct!
+[[Admin Post-Test Commentary]]
+
+
+:: Admin Test Q10 Option a {"position":"750,4750","size":"100,100"}
+Incorrect.
+[[Admin Post-Test Commentary]]
+
+
+:: Admin Test Q10 Option b {"position":"875,4750","size":"100,100"}
+Incorrect.
+[[Admin Post-Test Commentary]]
+
+
+:: Admin Test Q10 Option d {"position":"750,4875","size":"100,100"}
+Incorrect.
+[[Admin Post-Test Commentary]]
+
+
+:: Admin Test Q10 Options [Options] {"position":"750,4625","size":"100,100"}
+a. They all refer to pressure measurements in the air, with the numbers indicating the amount of atmospheric pressure in kilopascals (kPa). PM<sub>1</sub> is low pressure, PM<sub>2.5</sub> is moderate pressure, and PM<sub>10</sub> is high pressure.
+[[Admin Test Q10 Option a]]
+b. They all describe pollution levels, but are based on the number of pollution sources in an area. PM<sub>1</sub> accounts for pollution from a single source, PM<sub>2.5</sub> accounts for multiple sources within a distance of 2.5 miles, and PM<sub>10</sub> includes all pollution in a 10-mile radius. They are important in categorizing the levels in a high-pollution event.
+[[Admin Test Q10 Option b]]
+c. They all stand for particulate matter, which encompasses solids and liquids that can be found suspended in the air. Each of them varies in size, with the size in micrometers (μm) indicated in the subscript. PM<sub>1</sub> is 1 μm and smaller, PM<sub>2.5</sub> is 2.5 μm and smaller, and PM<sub>10</sub> is 10 μm and smaller. Finer particulate matter with a lower subscript is so small that it can infiltrate the lungs and then lead to further severe issues and irritation.
+[[Admin Test Q10 Correct c]]
+d. They stand for power mode settings on the IAQ monitors, with PM<sub>1</sub> being the lowest and PM<sub>10</sub> being the highest. They control how aggressively the device filters the air, with PM<sub>10</sub> capturing more particles than PM<sub>1</sub>.
+[[Admin Test Q10 Option d]]
+
+
+:: Admin Test Q2 {"position":"750,525","size":"100,100"}
+2. Why is tracking CO<sub>2</sub> important in indoor environments?
+[[Admin Test Q2 Options]]
+
+
+:: Admin Test Q2 Correct b [Correct] {"position":"975,775","size":"100,100"}
+Correct!
+[[Admin Test Q3]]
+
+
+:: Admin Test Q2 Option a {"position":"850,775","size":"100,100"}
+Incorrect.
+[[Admin Test Q3]]
+
+
+:: Admin Test Q2 Option c {"position":"700,775","size":"100,100"}
+Incorrect.
+[[Admin Test Q3]]
+
+
+:: Admin Test Q2 Option d {"position":"1100,775","size":"100,100"}
+Incorrect.
+[[Admin Test Q3]]
+
+
+:: Admin Test Q2 Options [Options] {"position":"750,650","size":"100,100"}
+a. CO<sub>2</sub> is the buildup of everyone’s respiration, meaning it can determine how many people are in the room and the target occupancy, depending on the levels.
+[[Admin Test Q2 Option a]]
+b. CO<sub>2</sub> helps indicate the quality of air circulation within the space, with levels below 1,000 ppm indicating “good” air quality and above 1,400 ppm indicating “poor” air quality, with additional mitigation techniques necessary.
+[[Admin Test Q2 Correct b]]
+c. CO<sub>2</sub> helps indicate the quality of air circulation within the space, with levels above 1,000 ppm indicating “good” air quality.
+[[Admin Test Q2 Option c]]
+d. CO<sub>2</sub> expresses the total amount of outdoor pollutants entering the indoor space through hidden cracks and gaps in the walls and ceiling, which alerts the facility that they need to get them sealed up.
+[[Admin Test Q2 Option d]]
+
+
+
+:: Admin Test Q3 {"position":"750,1025","size":"100,100"}
+3. Are temperature and humidity values beneficial to understand indoor air quality?
+[[Admin Test Q3 Options]]
+
+
+:: Admin Test Q3 Correct a [Correct] {"position":"650,1275","size":"100,100"}
+Correct!
+[[Admin Test Q4]]
+
+
+:: Admin Test Q3 Option b {"position":"825,1275","size":"100,100"}
+Incorrect.
+[[Admin Test Q4]]
+
+
+:: Admin Test Q3 Options [Options] {"position":"750,1150","size":"100,100"}
+a. Yes
+[[Admin Test Q3 Correct a]]
+b. No
+[[Admin Test Q3 Option b]]
+
+
+:: Admin Test Q4 {"position":"750,1500","size":"100,100"}
+4. Examine the following measurements: Red RBG lights, CO<sub>2</sub>: 1,509, PM<sub>2.5</sub>: 17, Temperature: 23.9°C (76.82°F), Humidity: 35%. Which example measurement suggests to you that a space has “good” air quality?
+[[Admin Test Q4 Options]]
+
+
+:: Admin Test Q4 Correct a [Correct] {"position":"750,1750","size":"100,100"}
+Correct!
+[[Admin Test Q5]]
+
+
+:: Admin Test Q4 Option b {"position":"875,1750","size":"100,100"}
+Incorrect.
+[[Admin Test Q5]]
+
+
+:: Admin Test Q4 Option c {"position":"625,1750","size":"100,100"}
+Incorrect.
+[[Admin Test Q5]]
+
+
+:: Admin Test Q4 Option d {"position":"750,1875","size":"100,100"}
+Incorrect.
+[[Admin Test Q5]]
+
+
+:: Admin Test Q4 Options [Options] {"position":"750,1625","size":"100,100"}
+a. RGB lights and CO<sub>2</sub>
+[[Admin Test Q4 Correct a]]
+b. CO<sub>2</sub> and temperature
+[[Admin Test Q4 Option b]]
+c. Humidity and temperature
+[[Admin Test Q4 Option c]]
+d. PM<sub>2.5</sub> and CO<sub>2</sub>
+[[Admin Test Q4 Option d]]
+
+
+:: Admin Test Q5 {"position":"750,2000","size":"100,100"}
+5. Although hands-on learning is beneficial, not everyone learns best visually. Since you have built many Corsi-Rosenthal (CR) Boxes already, what are the steps of building one in order?
+[[Admin Test Q5 Options]]
+
+
+:: Admin Test Q5 Correct a [Correct] {"position":"650,2275","size":"100,100"}
+Correct!
+[[Admin Test Q6]]
+
+
+:: Admin Test Q5 Option b {"position":"850,2275","size":"100,100"}
+Incorrect.
+[[Admin Test Q6]]
+
+
+:: Admin Test Q5 Options [Options] {"position":"750,2125","size":"100,100"}
+a. Assemble and seal together four filters into a square configuration with tape (arrows facing inward, no tape covering the filters, and pleats oriented vertically) → Attach a square of cardboard to the bottom of the square made by the filters with tape → Tape a box fan to the top of the filter square configuration → Cut a rounded square in the shape of the box fan with a large circle cut out of the middle → Tape this cardboard to the top of the box fan (no tape covering the fan) → Plug in!
+[[Admin Test Q5 Correct a]]
+b. Assemble and seal together three filters into a square configuration with tape (arrows facing inward, no tape covering the filters, and pleats oriented horizontally) → Attach a square of cardboard to the bottom of the square made by the filters with tape → Tape a box fan to the top of the filter square configuration → Cut a rectangle in the shape of the box fan with a large circle cut out of the middle → Tape this cardboard to the top of the box fan (no tape covering the fan) → Plug in
+[[Admin Test Q5 Option b]]
+
+
+:: Admin Test Q6 {"position":"750,2475","size":"100,100"}
+6. True or False: The main pollutant that would increase on the IAQ monitor's display when new furniture fumes are present is NO<sub>2</sub>.
+[[Admin Test Q6 Options]]
+
+
+:: Admin Test Q6 Correct b [Correct] {"position":"875,2725","size":"100,100"}
+Correct!
+[[Admin Test Q7]]
+
+
+:: Admin Test Q6 Option a {"position":"650,2725","size":"100,100"}
+Incorrect.
+[[Admin Test Q7]]
+
+
+:: Admin Test Q6 Options [Options] {"position":"750,2600","size":"100,100"}
+a.True.
+[[Admin Test Q6 Option a]]
+b. False
+[[Admin Test Q6 Correct b]]
+
+
+:: Admin Test Q7 {"position":"750,2975","size":"100,100"}
+ 7. How long can CR boxes be used effectively in a space?
+ [[Admin Test Q7 Options]]
+
+
+:: Admin Test Q7 Correct c [Correct] {"position":"900,3225","size":"100,100"}
+Correct!
+[[Admin Test Q8]]
+
+
+:: Admin Test Q7 Option a {"position":"750,3225","size":"100,100"}
+Incorrect.
+[[Admin Test Q8]]
+
+
+:: Admin Test Q7 Option b {"position":"600,3225","size":"100,100"}
+Incorrect.
+[[Admin Test Q8]]
+
+
+:: Admin Test Q7 Option d {"position":"750,3350","size":"100,100"}
+Incorrect.
+[[Admin Test Q8]]
+
+
+:: Admin Test Q7 Options [Options] {"position":"750,3100","size":"100,100"}
+a. CR boxes can be used indefinitely as replacements for HVAC systems.
+[[Admin Test Q7 Option a]]
+b. CR boxes should always be disposed of at the end of the day.
+[[Admin Test Q7 Option b]]
+c. They can serve as an additional mitigation to current HVAC systems for up to 8 months, and have to be checked on for efficiency using the IAQ monitor readings.
+[[Admin Test Q7 Correct c]]
+d. CR boxes should continue to be used only in rooms without ceiling fans, where they can self-regulate their own performance.
+[[Admin Test Q7 Option d]]
+
+
+:: Admin Test Q8 {"position":"750,3475","size":"100,100"}
+8. What does IAQ stand for, and what does it represent?
+[[Admin Test Q8 Options]]
+
+
+:: Admin Test Q8 Correct d [Correct] {"position":"750,3850","size":"100,100"}
+Correct!
+[[Admin Test Q9]]
+
+
+:: Admin Test Q8 Option a {"position":"750,3725","size":"100,100"}
+Incorrect.
+[[Admin Test Q9]]
+
+
+:: Admin Test Q8 Option b {"position":"875,3725","size":"100,100"}
+Incorrect.
+[[Admin Test Q9]]
+
+
+:: Admin Test Q8 Option c {"position":"625,3725","size":"100,100"}
+Incorrect.
+[[Admin Test Q9]]
+
+
+:: Admin Test Q8 Options [Options] {"position":"750,3600","size":"100,100"}
+IAQ stands for Indoor Air Quality, which is measured through the presence of PM<sub>10</sub> 
+[[Admin Test Q8 Option a]]
+IAQ stands for Innate Autoimmune Quality, which describes autoimmune diseases that can be caused by compromised innate immune function
+[[Admin Test Q8 Option b]]
+IAQ stands for Indoor Air Quantity, which describes the amount of oxygen present in the air and how quickly it enters the bloodstream
+[[Admin Test Q8 Option c]]
+IAQ stands for Indoor Air Quality, which describes the air quality within buildings 
+[[Admin Test Q8 Correct d]]
+
+
+:: Admin Test Q9 {"position":"750,3975","size":"100,100"}
+9. What is one method in which it would be safe to promote air flow between two or more spaces to alleviate CO<sub>2</sub> buildup short-term during a high-pollution event?
+[[Admin Test Q9 Options]]
+
+
+:: Admin Test Q9 Correct d [Correct] {"position":"750,4350","size":"100,100"}
+Correct!
+[[Admin Test Q10]]
+
+
+:: Admin Test Q9 Option a {"position":"750,4225","size":"100,100"}
+Incorrect.
+[[Admin Test Q10]]
+
+
+:: Admin Test Q9 Option b {"position":"875,4225","size":"100,100"}
+Incorrect.
+[[Admin Test Q10]]
+
+
+:: Admin Test Q9 Option c {"position":"625,4225","size":"100,100"}
+Incorrect.
+[[Admin Test Q10]]
+
+
+:: Admin Test Q9 Options [Options] {"position":"750,4100","size":"100,100"}
+a. Cracking a window facing a street
+[[Admin Test Q9 Option a]]
+b. Opening a window facing an alley 
+[[Admin Test Q9 Option b]]
+c. Opening a door that leads into a garage with its door open
+[[Admin Test Q9 Option c]]
+d. Opening a door between two connected rooms
+[[Admin Test Q9 Correct d]]
+
+
+
+:: P3 Filter Change Step 1 {"position":"500,325","size":"100,100"}
+The first step is to make sure you are wearing protective equipment, including a mask and gloves, with eye protection being optional. A KN95 mask or better (N95 or P100 respirator) and rubber or nitrile gloves are recommended.
+[[P3 Filter Change Step 2]]
+
+
+:: P3 Filter Change Step 2 {"position":"500,450","size":"100,100"}
+You must turn off and unplug the CR box several hours before replacing the filters, which has been done for this one already.
+[[P3 Filter Change Step 3]]
+
+
+:: P3 Filter Change Step 3 {"position":"500,575","size":"100,100"}
+You must now separate the filters from the cardboard and box fan pieces by cutting through the duct tape holding them together. You can discard the old filters, but keep everything else to reuse for another CR box.
+[[P3 Filter Change Step 4]]
+
+
+:: P3 Filter Change Step 4 {"position":"500,700","size":"100,100"}
+Now, create the same formation with the new filters as you did previously! Don’t forget to secure them to ensure no gapping with duct tape.
+[[P3 Filter Change Step 5]]
+
+
+:: P3 Filter Change Step 5 {"position":"500,825","size":"100,100"}
+Since you are already experienced building a CR box and the remaining pieces are ready for you, assemble the rest of it on your own!
+[[P3 Post-CR Box Build]]
+
+
+:: P3 Post-CR Box Build {"position":"500,950","size":"100,100"}
+Outstanding job! You now know how to build and rebuild a CR box!
+
+
+:: P3 Pre-Filter Change 1.1 {"position":"500,175","size":"100,100"}
+Even if the filters don’t appear caked with particles and pollutants, check the PM<sub>2.5</sub> levels on the IAQ monitor to make sure that the levels remain relatively consistent over time, or replace every 8 months if neither of these applies! Everything except for the filters can be reused, but you can also replace the cardboard if they are dirty and retain air pollutants.
+
+
+:: P3 Pre-Filter Change Intro {"position":"500,25","size":"100,100"}
+As mentioned, CR boxes can have their filters switched out up to 8 months after installation or until the efficiency decreases by monitoring pollutant levels. Although your CR box was just built and implemented, you should still have the experience of switching out the 4 HVAC filters.
+[[P3 Pre-Filter Change 1.1]]

@@ -1,0 +1,634 @@
+:: StoryTitle
+FacilityPhase2Quizzes
+
+
+:: StoryData
+{
+  "ifid": "4EE23F87-82CB-4901-9D53-DD382352D167",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Facility2Intro",
+  "tag-colors": {
+    "Options": "orange",
+    "Add-Visual": "purple"
+  },
+  "zoom": 1
+}
+
+
+:: AdvisorIntro {"position":"3525,200","size":"100,100"}
+Here’s what an advisory may look like from a government agency such as the Department of Environmental Quality, which is similar to some you might see from local authorities:
+
+
+:: AdvisorIntro2 {"position":"3925,475","size":"100,100"}
+For students and staff who are unable to find their transportation immediately after the school day is over, the principal and administration will push for carpool and bus usage, but also offer up a large space for them to stay inside until they can get transportation that will prevent them from being outdoors for long periods. This notice might have been too short for people transporting employees and students to be able to get there on time, especially if they aren’t carefully following local air quality monitoring.
+[[AdvisorIntro3]]
+
+
+:: AdvisorIntro3 {"position":"3750,500","size":"100,100"}
+You should also check in with other people in your office to ensure they stay inside the building until they can safely get to transportation.
+
+
+:: AdvisorQuiz {"position":"3700,75","size":"100,100"}
+If you received this advisory, would it be safe to let students and faculty leave the school buildings? Read the advisory in its entirety since you will not be able to go back to it.
+[[AdvisorQuizOptions]]
+
+
+:: AdvisorQuizOption1.1 {"position":"3625,350","size":"100,100"}
+Incorrect. They should still be cautious when going outside, limiting the time they spend outside.
+[[AdvisorQuiz]]
+
+
+:: AdvisorQuizOption1.2 {"position":"3750,350","size":"100,100"}
+Correct! This is what the Department of Environmental Quality (DEQ) advisory stated. They said the air quality is safer than it was when the smoke first spread into the area, but precautions should still be enforced since there are still risks of being outdoors for long periods.
+[[AdvisorIntro2]] 
+
+
+:: AdvisorQuizOption1.3 {"position":"3875,350","size":"100,100"}
+Incorrect. Getting into an enclosed vehicle as a transportation method is most beneficial.
+[[AdvisorQuiz]]
+
+
+:: AdvisorQuizOption1.4 {"position":"4000,350","size":"100,100"}
+Incorrect. This is not what was stated in the advisory. Remember that they are encouraging people to get into a well-ventilated space if they haven’t already.
+[[AdvisorQuiz]]
+
+
+:: AdvisorQuizOptions [Options] {"position":"3700,200","size":"100,100"}
+Yes, they should now be given the recess they were supposed to have earlier.
+[[AdvisorQuizOption1.1]] 
+Yes, but they should only be outside to get from their buildings to their vehicles.
+[[AdvisorQuizOption1.2]] 
+No, they must take bikes as a mode of transportation to leave, and not everyone has one.
+[[AdvisorQuizOption1.3]] 
+No, the Department of Environmental Quality (DEQ) advised everyone to stay indoors indefinitely.
+[[AdvisorQuizOption1.4]]
+
+
+:: CRBoxIntro {"position":"2875,75","size":"100,100"}
+Now that you have retrieved the CR box supplies, you can build it!
+[[CRBoxIntro2]]
+
+
+:: CRBoxIntro2 {"position":"2875,225","size":"100,100"}
+Since you did so well building the box during the tutorial earlier, try building it again now! Don’t worry, you will still have guided instructions like you previously had!
+
+
+:: CRBoxTwoDone1.1 {"position":"3025,75","size":"100,100"}
+Now that you’ve implemented the proper safety protocol in your office, it’s time to check back in with the teachers and staff.
+[[CRBoxTwoDone1.2]]
+
+
+:: CRBoxTwoDone1.2 {"position":"3025,225","size":"100,100"}
+It looks like the teachers and staff successfully completed and installed their CR boxes and are watching the levels on their IAQ monitors go down.
+
+
+:: ColorEmailOption1 {"position":"1575,375","size":"100,100"}
+Correct! Both of these colors indicate less than “good” air quality, which is represented by green. Once the colors start changing, you should start looking for solutions to promote better IAQ.
+
+
+:: ColorEmailOption2 {"position":"1700,375","size":"100,100"}
+Incorrect. Although this color indicates that the air quality is worsening, there is a better choice.
+[[ColorEmailQuizOptions]]
+
+
+:: ColorEmailOption3 {"position":"1825,375","size":"100,100"}
+Incorrect. These colors indicate that the air quality is "good"/"moderate" and is therefore somewhat less concerning.
+[[ColorEmailQuizOptions]]
+
+
+:: ColorEmailOption4 {"position":"1950,375","size":"100,100"}
+Incorrect. Both the orange and red colors are below “good” and “moderate” air quality, which are green and yellow, respectively.
+[[ColorEmailQuizOptions]]
+
+
+:: ColorEmailQuiz {"position":"1675,0","size":"100,100"}
+Cafeteria workers who have culinary arts students report three different colors of lights on their monitors, which cafeteria worker’s observation should you be immediately concerned about?
+[[ColorEmailQuizOptions]]
+
+
+:: ColorEmailQuizOptions [Options] {"position":"1675,150","size":"100,100"}
+Both the red and orange observations are pressing.
+[[ColorEmailOption1]] 
+The one who says the lights appear to be orange.
+[[ColorEmailOption2]] 
+The one who says the lights appear to be green/yellow.
+[[ColorEmailOption3]] 
+Neither, the colors on the monitor are for decoration only.
+[[ColorEmailOption4]]
+
+
+:: F2IntroQuiz1.1 {"position":"525,500","size":"100,100"}
+Incorrect. Delaying the issue increases the risk of harm. Immediate communication is necessary in potential air quality emergencies. Facility members count on you for urgent information, especially if they might not hear about it otherwise. Leave it up to teachers and staff to maintain calmness throughout the school.
+ [[Facility2IntroQuiz1]]
+
+
+:: F2IntroQuiz1.2 {"position":"650,500","size":"100,100"}
+Correct! Informing your facility should be the first course of action. It is important to minimize exposure to the outdoor air until further notice.
+[[Facility2IntroQuiz2]]
+
+
+:: F2IntroQuiz1.3 {"position":"775,500","size":"100,100"}
+Incorrect. Although this seems like a formal way to handle some emergencies, this one can quickly become dangerous for teachers, staff, and students. Even if it doesn’t end up escalating to that level, it is vital to prepare and stay on top of this emergency.
+[[Facility2IntroQuiz1]]
+
+
+:: F2IntroQuiz1.4 {"position":"900,500","size":"100,100"}
+Incorrect. Although this typically increases ventilation during “good” outdoor air quality conditions, right now, the smoke plumes can carry harmful pollutants that you don’t want entering indoor buildings. Instead, it is wiser to ensure all openings and gaps are sealed to prevent excess pollutants from entering.
+[[Facility2IntroQuiz1]]
+
+
+:: F2IntroQuiz2.1 {"position":"650,875","size":"100,100"}
+Correct! The principal is responsible for sending out mass communications to parents and guardians. Administrators will likely be answering incoming urgent emails and phone calls from parents and guardians.
+[[Facility2Intro7]]
+
+
+:: F2IntroQuiz2.2 {"position":"775,875","size":"100,100"}
+Incorrect. You can send out updates to teachers directly since you typically communicate about individual needs in their classrooms and stay on top of safety protocol, which is the same during this scenario.
+[[Facility2IntroQuiz2]]
+
+
+:: F2IntroQuiz3.1 {"position":"550,1375","size":"100,100"}
+Incorrect. Although keeping everyone calm is important, your job is to monitor updates and provide other safety information to school staff so they can carry out their roles without also having to stay on top of broadcasts and public safety warnings.
+[[Facility2IntroQuiz3]]
+
+
+:: F2IntroQuiz3.2 {"position":"675,1375","size":"100,100"}
+Correct! Using IAQ monitors will allow you to evaluate the indoor air quality to determine if and when additional mitigation strategies are needed.
+[[Facility2Intro8]]
+
+
+:: F2IntroQuiz3.3 {"position":"800,1375","size":"100,100"}
+Incorrect. Since the staff working at the school must prioritize students and their own safety, your role is to provide important updates.
+[[Facility2IntroQuiz3]]
+
+
+:: F2IntroQuiz4.1 {"position":"450,1900","size":"100,100"}
+Incorrect. Keeping windows, doors, and any other openings that lead outside sealed during this time prevents excess pollutants from entering the indoor space.
+[[Facility2IntroQuiz4]]
+
+
+:: F2IntroQuiz4.2 {"position":"575,1900","size":"100,100"}
+Incorrect. Although the monitor should be checked throughout the day, right now you need a quick solution to increase air circulation while preparing your facility.
+[[Facility2IntroQuiz4]]
+
+
+:: F2IntroQuiz4.3 {"position":"700,1900","size":"100,100"}
+Incorrect. Although this is a helpful habit to undertake before entering an indoor environment, this isn’t a solution that can drastically benefit you since it doesn’t add additional circulation needed as a temporary solution.
+[[Facility2IntroQuiz4]]
+
+
+:: F2IntroQuiz4.4 {"position":"825,1900","size":"100,100"}
+Correct! Promoting air circulation between rooms allows pollutants to be diluted rather than concentrated in one space. This lessens the negative health effects of pollutants in the air since they are spread over a greater volume.
+[[Facility2Intro9]]
+
+
+:: F2IntroQuiz5.1 {"position":"625,2675","size":"100,100"}
+Incorrect. Although this is a correct way to understand what government entities have established about the air quality in your area, it is important to monitor as many credible sources as possible.
+[[Facility2IntroQuiz5]]
+
+
+:: F2IntroQuiz5.2 {"position":"750,2675","size":"100,100"}
+Incorrect. Although this is a reliable government entity you can count on for updates, it is important to monitor as many credible sources as possible.
+[[Facility2IntroQuiz5]]
+
+
+:: F2IntroQuiz5.3 {"position":"875,2675","size":"100,100"}
+Incorrect. It is important to monitor as many credible sources as possible.
+[[Facility2IntroQuiz5]]
+
+
+:: F2IntroQuiz5.4 {"position":"1000,2675","size":"100,100"}
+Correct! Being able to corroborate between credible sources helps ensure you get reliable information!
+[[Facility2Pre-IntroQuiz6]]
+
+
+:: F2IntroQuiz6.1 {"position":"875,3175","size":"100,100"}
+Correct! This proactive approach ensures that any potential issues are caught early on, even ones that staff might not catch. Their input can help identify patterns or emerging concerns, while also giving you a grasp of the conditions inside the school buildings.
+[[Facility2Intro13]]
+
+
+:: F2IntroQuiz6.2 {"position":"1000,3175","size":"100,100"}
+Incorrect. This would cause underreporting. Teachers and staff may not be sure what counts as high quantities or pressing conditions, so it’s better to choose a safer approach.
+[[Facility2IntroQuiz6]]
+
+
+:: F2IntroQuiz6.3 {"position":"1125,3175","size":"100,100"}
+Incorrect. Each situation can require different intervention methods depending on the IAQ monitor readings. Although you can handle some situations in similar manners, it’s best to ensure everyone has a tailored response based on their circumstances.
+[[Facility2IntroQuiz6]]
+
+
+:: F2IntroQuiz6.4 {"position":"1250,3175","size":"100,100"}
+Incorrect. Since it is your responsibility to understand proper protocol, convey related information, and intervene when necessary, this isn’t the best course of action.
+[[Facility2IntroQuiz6]]
+
+
+:: Facility2Intro {"position":"50,50","size":"100,100"}
+Welcome to Phase 2. You will now work through a scenario as a <b>Facility Manager</b>.
+[[Facility2Intro1]]
+
+
+:: Facility2Intro1 {"position":"200,75","size":"100,100"}
+Last night, there was a large fire in a nearby city. Large smoke plumes have left suspended particles in the air and caused excess pollution. You are the <b>Facility Manager</b> at the local district school. It is currently 8 am, the beginning of the school day.
+[[Facility2Intro2]]
+
+
+:: Facility2Intro10 {"position":"825,2150","size":"100,100"}
+Thinking back to keeping track of dates on the calendar, maintenance put new filters into place throughout the school just under a month ago, meaning you don’t have to worry about information on how to install and get equipment such as Corsi-Rosenthal boxes until there is a dire need. This will ensure that resources aren’t used up too quickly by rooms that might not need them. Also, this  limits exposure to the outside that is caused by sending staff outside and opening doors to allow excess pollution from outside in.
+[[Facility2Intro11]]
+
+
+:: Facility2Intro11 [Add-Visual] {"position":"825,2275","size":"100,100"}
+The <b>Air Quality Index (AQI)</b> is a color-coded scale created by the Environmental Protection Agency (EPA) to set ranges of pollutants in the air. It quantifies the amount of outdoor pollution and assigns it a color based on the range it falls into. Weather apps or widgets, along with other tools, can be easily accessed by anyone to determine the AQI of their area.
+[[Facility2IntroQuiz5]]
+
+
+:: Facility2Intro13 {"position":"875,3300","size":"100,100"}
+Since most teachers are with students, they will often email you to avoid inciting panic. Click on your computer to check your email for any correspondence. Your phone also might ring if a teacher chooses to call.
+
+
+:: Facility2Intro2 {"position":"150,225","size":"100,100"}
+There is a smoke alert related to a wildfire within 50 miles of your area! You are not in immediate danger of the flames since they were previously put out, but your surroundings are likely to be adversely affected by smoke plumes.
+[[Facility2Intro3]]
+
+
+:: Facility2Intro3 {"position":"150,375","size":"100,100"}
+Please use your knowledge and critical thinking skills to decide how to best respond to this situation.
+[[Facility2Intro4]]
+
+
+:: Facility2Intro4 {"position":"150,500","size":"100,100"}
+As a <b>Facility Manager</b>, what steps can you take today to help your community mitigate smoke exposure? You are responsible for the upkeep, compliance, and improvement of the local public school you oversee. Think of tasks and their order of priority specific to your role that you must carry out in this situation.
+[[Facility2Intro5]]
+
+
+:: Facility2Intro5 {"position":"150,650","size":"100,100"}
+Take your time carefully to make the best selections during this simulation, but remember that you wouldn’t have as much time to think during a real wildfire. This is designed to help you prepare for a real wildfire smoke event.
+
+
+:: Facility2Intro7 {"position":"650,1000","size":"100,100"}
+While it is inevitable that the front office will have an influx of calls from concerned parents and guardians when they hear about the wildfire pollution near the school, sending out mass communication will help ease their minds that the facility is prioritizing their children’s safety and has a plan in place.
+[[Facility2IntroQuiz3]]
+
+
+:: Facility2Intro8 {"position":"675,1500","size":"100,100"}
+Americans spend around 90% of their time indoors, where pollutant levels can be much higher than outside levels. More specifically, 90% of K-12 schools are under-ventilated. Simple mitigation measures can be taken to avoid a buildup of indoor pollutants. Measures such as opening doors that exist between spaces or that lead to the outside, opening windows, turning a fan on, and not spraying VOC-containing materials can improve IAQ. However, it’s important to keep doors and outside windows closed when the outdoor pollution is high.
+[[Facility2IntroQuiz4]]
+
+
+:: Facility2Intro9 {"position":"825,2025","size":"100,100"}
+1 in 6 people in the United States are frequently in school buildings. More specifically, 90% K-12 schools are under-ventilated. Clean air in schools encourages a healthy learning environment, but poor IAQ can impact learning by promoting issues such as drowsiness, difficulty concentrating, decreased academic performance, and possibly higher absenteeism rates. Other health effects are respiratory irritation and congestion, skin irritation, allergies, and worsening respiratory illnesses like asthma and chronic obstructive pulmonary disease (COPD). In extreme cases, unhealthy IAQ can be life-threatening.
+[[Facility2Intro10]]
+
+
+:: Facility2IntroQuiz {"position":"650,125","size":"100,100"}
+Ready to test your knowledge?
+[[Facility2IntroQuiz1]]
+
+
+:: Facility2IntroQuiz1 {"position":"650,250","size":"100,100"}
+What is the most urgent course of action you should take first?
+[[Facility2IntroQuiz1Options]]
+
+
+:: Facility2IntroQuiz1Options [Options] {"position":"650,375","size":"100,100"}
+Wait until after recess to report the issue to gather more information and avoid creating unnecessary alarm among students and staff.
+[[F2IntroQuiz1.1]]
+Get in contact with the admin and teachers before outdoor activities, like recess, or transitions between classes, to advise them of the situation, and keep students and staff inside to limit outside smoke particles from entering indoor spaces.
+[[F2IntroQuiz1.2]] 
+Draft a detailed incident report and send it by email to school leadership while monitoring the situation, acting only when it escalates.
+[[F2IntroQuiz1.3]] 
+Open windows and doors in all classrooms and other rooms to improve ventilation.
+[[F2IntroQuiz1.4]]
+
+
+:: Facility2IntroQuiz2 {"position":"650,625","size":"100,100"}
+Who else at the school will you closely interface with to coordinate communications to students’ parents and guardians?
+[[Facility2IntroQuiz2Options]]
+
+
+:: Facility2IntroQuiz2Options [Options] {"position":"650,750","size":"100,100"}
+The principal and administrators of your school.
+[[F2IntroQuiz2.1]] 
+The teachers who are in charge of the students in their classroom.
+[[F2IntroQuiz2.2]]
+
+
+:: Facility2IntroQuiz3 {"position":"650,1125","size":"100,100"}
+What should teachers and staff be reminded of to check their individual indoor pollutants?
+[[Facility2IntroQuiz3Options]]
+
+
+:: Facility2IntroQuiz3Options [Options] {"position":"650,1250","size":"100,100"}
+Instructions to keep students and staff calm.
+[[F2IntroQuiz3.1]] 
+An overview of checking the IAQ monitors.
+[[F2IntroQuiz3.2]]
+A link to a news story covering the status of the fire and affected areas.
+[[F2IntroQuiz3.3]]
+
+
+:: Facility2IntroQuiz4 {"position":"675,1625","size":"100,100"}
+Oh no! You forgot that you opened your window earlier! What is the first action to take for everyone’s safety, given that there is smoke in the area?
+[[Facility2IntroQuiz4Options]]
+
+
+:: Facility2IntroQuiz4Options [Options] {"position":"675,1750","size":"100,100"}
+Open more windows in your office building to promote fresh airflow.
+[[F2IntroQuiz4.1]] 
+Check the PM<sub>2.5</sub> levels on the IAQ monitor.
+[[F2IntroQuiz4.2]] 
+Brush off excess dust particles from clothing and shoes.
+[[F2IntroQuiz4.3]] 
+Close the open window, then open the doors connected by indoor hallways and turn on available fans to promote circulation throughout connected offices and rooms.
+[[F2IntroQuiz4.4]]
+
+
+:: Facility2IntroQuiz5 {"position":"825,2400","size":"100,100"}
+What resource(s) should you look to for important safety information and updates about containing the wildfire and its smoke outside?
+[[Facility2IntroQuiz5Options]]
+
+
+:: Facility2IntroQuiz5Options [Options] {"position":"825,2525","size":"100,100"}
+Current Air Quality Index (AQI) levels in the area, as established by the Environmental Protection Agency (EPA), regarding the current index.
+[[F2IntroQuiz5.1]] 
+Official announcements from experts such as the state’s Department of Environmental Quality (DEQ).
+[[F2IntroQuiz5.2]] 
+Unbiased news outlets with air quality experts that are being updated consistently in real-time.
+[[F2IntroQuiz5.3]] 
+All of the above.
+[[F2IntroQuiz5.4]]
+
+
+:: Facility2IntroQuiz6 {"position":"1000,2925","size":"100,100"}
+If you haven’t heard any pressing concerns from the school staff yet, what is the best course of action to check in?
+[[Facility2IntroQuiz6Options]]
+
+
+:: Facility2IntroQuiz6Options [Options] {"position":"1000,3050","size":"100,100"}
+Have all school staff members check their IAQ monitors and report back, even if they’re unsure about the urgency of their readings.
+[[F2IntroQuiz6.1]] 
+Only have staff members who are dealing with high quantities of any air pollutants reach out as needed to save space in your inbox for emergencies.
+[[F2IntroQuiz6.2]] 
+Wait until staff members raise similar concerns, then respond with mass communication to all of them.
+[[F2IntroQuiz6.3]] 
+Send out more resources and allow the administration to answer any concerns from other teachers and staff.
+[[F2IntroQuiz6.4]]
+
+
+:: Facility2Pre-IntroQuiz6 {"position":"1000,2800","size":"100,100"}
+Though the flames have previously been contained from last night’s wildfire, the smoke plumes have continued spreading to the surrounding area. It’s time to check in with your facility members.
+[[Facility2IntroQuiz6]]
+
+
+:: FinalEmail2Option1.1 {"position":"2475,825","size":"100,100"}
+Incorrect. Although this can be a temporary and quick solution, it doesn’t provide enough circulation in the long run or filter out pollutants. Additionally, not all buildings have connecting rooms.
+[[FinalEmailQuiz2]]
+
+
+:: FinalEmail2Option1.2 {"position":"2600,825","size":"100,100"}
+Correct! CR boxes can be quickly built and turned on, which helps circulate air and filter out particles. providing additional ventilation.
+[[FinalEmailIntro2]]
+
+
+:: FinalEmail2Option1.3 {"position":"2725,825","size":"100,100"}
+Incorrect. When the air quality is “good” outside, this might help with airflow. However, in this case, it would allow more pollutants to enter indoor spaces. It is best to seal these pollutants from entering entirely.
+[[FinalEmailQuiz2]]
+
+
+:: FinalEmail2Option1.4 {"position":"2850,825","size":"100,100"}
+Incorrect. This approach will not change the levels of pollutants inside the room since the sources (the people and the infiltration of the pollution from the outside) are still present.
+[[FinalEmailQuiz2]]
+
+
+:: FinalEmailIntro {"position":"2600,75","size":"100,100"}
+Now that you've successfully responded to these emails, let's do a quick review.
+[[FinalEmailQuiz1]]
+
+
+:: FinalEmailIntro2 {"position":"2600,950","size":"100,100"}
+Since multiple buildings are already experiencing issues with their Indoor Air Quality (IAQ), advise everyone to get a CR box or portable air cleaner in their classroom or workspace.
+[[FinalEmailIntro3]]
+
+
+:: FinalEmailIntro3 {"position":"2600,1075","size":"100,100"}
+Instructions to assemble a CR box are included with the CR box supplies. Sending out a video demonstration as a visual aid may be helpful. This will also help teachers and staff who are assembling boxes to place filters in a square formation with the pleats oriented vertically on each filter and the arrows on the filters facing inward.
+[[FinalEmailIntro4]]
+
+
+:: FinalEmailIntro4 {"position":"2600,1225","size":"100,100"}
+While prioritizing the safety of your facility, you also need to look out for your own safety! Other buildings in the area have reportedly experienced some effects from the pollution outside on their IAQ. Use your IAQ monitor to stay on top of tracking pollutants in your office!
+[[FinalEmailQuiz3]]
+
+
+:: FinalEmailIntro6 {"position":"2600,1950","size":"100,100"}
+Since teachers and staff are building the CR boxes as instructed, you should also build one now to ensure healthy breathing in your office space and building. Since you did so well building the box during the tutorial earlier, try building it again now! You will still have instructions like the members of your facility got.
+
+
+:: FinalEmailOption3.1 {"position":"2425,1800","size":"100,100"}
+Incorrect. Although temperature has gone up by a small amount, the humidity has not increased.
+[[FinalEmailQuiz3]]
+
+
+:: FinalEmailOption3.2 {"position":"2550,1800","size":"100,100"}
+Incorrect. The CO<sub>2</sub> was at 458 ppm and is now at 470 ppm, meaning the current CO<sub>2</sub> level is still “good” since it is under 1,000 ppm. However, it is still important to keep checking on this over time.
+[[FinalEmailQuiz3]]
+
+
+:: FinalEmailOption3.3 {"position":"2675,1800","size":"100,100"}
+Correct! The PM<sub>2.5</sub> value has tripled from what it originally was. Intervention is necessary in an attempt to get ahead of its worsening.
+[[FinalEmailIntro6]]
+
+
+:: FinalEmailOption3.4 {"position":"2800,1800","size":"100,100"}
+Incorrect. A CR box does need to be implemented, but take a better look at which values express concern that validate this choice.
+[[FinalEmailQuiz3]]
+
+
+:: FinalEmailQuiz1 {"position":"2600,200","size":"100,100"}
+Whose situation is most urgent that you should address first?
+[[FinalEmailQuiz1Options]]
+
+
+:: FinalEmailQuiz1Correct1.3 {"position":"2725,450","size":"100,100"}
+Correct! They are both facing pressing circumstances, and you should treat them with the same level of urgency. Since multiple facility occupants have indicated a need for more resources to help mitigate the effects of the wildfire smoke, you should get them to everyone to prevent further extreme issues before they’re detected.
+[[FinalEmailQuiz2]]
+
+
+:: FinalEmailQuiz1Option1.1 {"position":"2475,450","size":"100,100"}
+Incorrect. This is an urgent matter since CO<sub>2</sub> levels are getting worse in quality, but the other choice is also an equally urgent matter.
+[[FinalEmailQuiz1]] 
+
+
+:: FinalEmailQuiz1Option1.2 {"position":"2600,450","size":"100,100"}
+Incorrect. This is an urgent matter since the lights have progressed below the “moderate” air quality range, but the other choice is also an equally urgent matter.
+[[FinalEmailQuiz1]]
+
+
+:: FinalEmailQuiz1Options [Options] {"position":"2600,325","size":"100,100"}
+The elementary-level science teacher, who is experiencing a high level of CO<sub>2</sub>, which indicates poor ventilation
+[[FinalEmailQuiz1Option1.1]]
+The cafeteria workers, who see the different colored lights on the monitors in their area that alert them to poor air quality
+[[FinalEmailQuiz1Option1.2]]
+Get resources to both of them and others who have also indicated the need for additional mitigation methods; they are all experiencing concerning circumstances
+[[FinalEmailQuiz1Correct1.3]]
+
+
+
+:: FinalEmailQuiz2 {"position":"2625,575","size":"100,100"}
+What mitigation measures can you advise these facility occupants experiencing issues—even if they initially seem insignificant or “moderate”—to implement?
+[[FinalEmailQuiz2Options]]
+
+
+:: FinalEmailQuiz2Options [Options] {"position":"2625,700","size":"100,100"}
+Tell teachers and staff who share buildings to turn on fans and open doors between rooms to enable circulation.
+[[FinalEmail2Option1.1]] 
+Distribute resources for teachers and staff to build CR boxes or turn on already completed and optimally functioning boxes.
+[[FinalEmail2Option1.2]] 
+Have teachers and staff open doors or windows that lead outdoors to promote airflow with fresh air.
+[[FinalEmail2Option1.3]] 
+Inform teachers and staff to gather their students and themselves in the middle of the rooms, away from doors and windows that lead outside.
+[[FinalEmail2Option1.4]]
+
+
+:: FinalEmailQuiz3 {"position":"2425,1375","size":"100,100"}
+The IAQ monitor readings from the walk-through earlier and your current readings are both indicated below. Some levels might fluctuate slightly randomly, but any levels that might have spiked could indicate the effects of the pollution outside.
+[[FinalEmailQuiz3.1]]
+
+
+:: FinalEmailQuiz3.1 {"position":"2550,1375","size":"100,100"}
+Previous monitor display: Green RBG lights
+- CO<sub>2</sub>: 458
+- PM<sub>2.5</sub>: 19
+- Temperature: 23.5°C (74.3°F)
+- Humidity: 33%
+
+[[FinalEmailQuiz3.2]]
+
+
+:: FinalEmailQuiz3.2 {"position":"2675,1375","size":"100,100"}
+Current monitor display: Green RBG lights
+- CO<sub>2</sub>: 470
+- PM<sub>2.5</sub>: 57
+- Temperature: 23.7°C (74.66°F)
+- Humidity: 33%
+[[FinalEmailQuiz3.3]]
+
+
+:: FinalEmailQuiz3.3 {"position":"2800,1375","size":"100,100"}
+What reading(s), if any, are elevated to the point of concern?
+[[FinalEmailQuizOptions3]]
+
+
+:: FinalEmailQuizOptions3 [Options] {"position":"2600,1525","size":"100,100"}
+The humidity and temperature have increased.
+[[FinalEmailOption3.1]] 
+The CO<sub>2</sub> level has increased to a “moderate” level, meaning additional circulation is necessary.
+[[FinalEmailOption3.2]] 
+The PM<sub>2.5</sub> has increased to a “moderate” level, which indicates the need for more air cleaning/remediation.
+[[FinalEmailOption3.3]] 
+None of the levels are significant, but a CR box still needs to be implemented.
+[[FinalEmailOption3.4]]
+
+
+:: Post-CRBoxBuild {"position":"3350,75","size":"100,100"}
+It has now been well over an hour since you installed the CR box in your office. It might be wise to check your IAQ monitor to make sure it is working properly.
+[[Post-CRBoxBuild1.1]]
+
+
+:: Post-CRBoxBuild1.1 {"position":"3350,200","size":"100,100"}
+Current monitor display: Green RBG lights
+- CO<sub>2</sub>: 458
+- PM<sub>2.5</sub>: 17
+- Temperature: 23.5°C (74.3°F)
+- Humidity: 33%
+[[Post-CRBoxBuild1.2]]
+
+
+:: Post-CRBoxBuild1.2 {"position":"3350,325","size":"100,100"}
+You can see that the  PM<sub>2.5</sub> level has drastically decreased after implementing the CR box, so it falls in the “good” category index and doesn’t continue to increase beyond “moderate”.
+
+
+:: Pre-AdvisoryIntro {"position":"3525,75","size":"100,100"}
+Now that some time has passed and it’s getting closer to the end of the school day, check in with the local authorities for updates on the current spread of the wildfires and smoke situation.
+[[AdvisorIntro]]
+
+
+:: PrincipalIntro {"position":"3175,75","size":"100,100"}
+Principal: "Good afternoon, I’ve received correspondence from some of the teachers who are asking about CR boxes as a long-term solution, so we can already have them assembled in case of another high pollution event in the future."
+[[PrincipalQuiz]]
+
+
+:: PrincipalIntro2 {"position":"3175,600","size":"100,100"}
+Principal: “Thank you for the clarification. I will make sure we are staying current on the upkeep of the boxes and checking on their efficiency based on the individual monitors in each room, then replace the filters when needed. I think our classrooms will benefit from knowing how to stay on top of maintaining indoor air quality.”
+
+
+:: PrincipalOption1.1 {"position":"2975,475","size":"100,100"}
+Incorrect. Filters should last longer than a month as long as the IAQ monitors continue to display low readings. Additionally, when the CR box is decreasing in effectiveness of circulating air and filtering out particles, just the filters need to be replaced with clean ones, while other components can be reused.
+[[PrincipalQuiz]]
+
+
+:: PrincipalOption1.2 {"position":"3100,475","size":"100,100"}
+Incorrect. CR boxes can be used for longer durations and should stay in place until the air quality levels are reasonable. Having the CR boxes can help circulate air and trap particles.
+[[PrincipalQuiz]]
+
+
+:: PrincipalOption1.3 {"position":"3225,475","size":"100,100"}
+ Incorrect. CR boxes typically last for longer than 2-3 weeks. Further, the box as a whole doesn’t stop working, it simply becomes less effective.
+[[PrincipalQuiz]]
+
+
+:: PrincipalOption1.4 {"position":"3350,475","size":"100,100"}
+Correct! The filters are the only thing that would need to be replaced when they start being less efficient. It is crucial to keep the CR boxes operating since the air pollution levels sometimes do not always decrease immediately. Although this wildfire event caused more pollutants to get filtered out by the CR box, the filters likely aren’t dirty enough to need changing yet. However, it is still vital to check the IAQ monitor to ensure the CR box’s effectiveness.
+[[PrincipalIntro2]]
+
+
+:: PrincipalOptions [Options] {"position":"3175,325","size":"100,100"}
+CR boxes need to be completely replaced (i.e. the filters and fans need to be replaced) every month to optimize their effectiveness.
+[[PrincipalOption1.1]] 
+CR boxes are intended for one-time use only and should be discarded when teachers and staff leave today.
+[[PrincipalOption1.2]] 
+CR boxes stop working entirely after about 2-3 weeks, even if the filters look clean.
+[[PrincipalOption1.3]] 
+CR box filters can last up to 8 months before needing to be replaced, but their effectiveness can be tested by looking at the readings on the IAQ monitor.
+[[PrincipalOption1.4]]
+
+
+:: PrincipalQuiz {"position":"3175,200","size":"100,100"}
+What should you inform the principal about regarding the longevity of the CR boxes?
+[[PrincipalOptions]]
+
+
+:: ScienceEmailOption1 {"position":"1025,375","size":"100,100"}
+Correct! CO<sub>2</sub> is the best listed proxy to determine how well the air is being circulated and spread through the space. The indicated measurement of 1,383 ppm indicates that his classroom has “moderate” CO<sub>2</sub> levels and needs additional ventilation methods.
+
+
+:: ScienceEmailOption2 {"position":"1150,375","size":"100,100"}
+Incorrect. While PM<sub>2.5</sub> gauge circulation, it isn't the best method that has previously been emphasized. If given no other measurements, PM<sub>2.5</sub> might be used as a proxy to determine IAQ.
+[[ScienceEmailQuizOptions]]
+
+
+:: ScienceEmailOption3 {"position":"1275,375","size":"100,100"}
+Incorrect. Humidity isn’t the best method for determining air circulation. If it were the only method available, humidity could potentially be used.
+[[ScienceEmailQuizOptions]]
+
+
+:: ScienceEmailOption4 {"position":"1400,375","size":"100,100"}
+Incorrect. Temperature isn’t the best answer for looking at air circulation quality.
+[[ScienceEmailQuizOptions]]
+
+
+:: ScienceEmailQuiz {"position":"1200,0","size":"100,100"}
+One of the elementary-level science teachers reaches out. He isn’t certain about the circulation in the room, so he sends you what the quantities read. Which parameter has been previously mentioned to best indicate the extent of air circulation in the room?
+[[ScienceEmailQuizOptions]]
+
+
+:: ScienceEmailQuizOptions [Options] {"position":"1200,125","size":"100,100"}
+CO<sub>2</sub>
+[[ScienceEmailOption1]]
+PM<sub>2.5</sub>
+[[ScienceEmailOption2]]
+Humidity
+[[ScienceEmailOption3]]
+Temperature
+[[ScienceEmailOption4]]

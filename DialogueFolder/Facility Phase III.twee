@@ -1,0 +1,403 @@
+:: StoryTitle
+Facility Phase III
+
+
+:: StoryData
+{
+  "ifid": "4D2B2F97-05BB-408E-B2CA-B3C4797E6960",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Facility Phase III Intro",
+  "tag-colors": {
+    "Options": "orange",
+    "Correct": "green"
+  },
+  "zoom": 1
+}
+
+
+:: Facility Phase III Intro {"position":"100,25","size":"100,100"}
+Since the smoke plumes have significantly dissipated near your facility, local officials have announced that it is safe for your school’s staff and students to leave. You are sticking around to continue communication with any occupants that remain, whether they are watching over students or unable to get transportation themselves. Additionally, the rest of your office is also staying to go over precautions for the following weeks.
+[[Facility Phase III Intro2]]
+
+
+:: Facility Phase III Intro2 {"position":"100,150","size":"100,100"}
+It is just as important to plan ahead and review response protocols as it is to keep your facility safe during times of high pollution.
+
+
+:: Facility Phase III Post-Q1 Commentary {"position":"225,400","size":"100,100"}
+Exposing people, especially sensitive groups, to dangerous levels of pollutants, even temporarily, can have effects that impact not only breathing function but also other vital functions.
+
+
+:: Facility Phase III Post-Test Commentary {"position":"0,4000","size":"100,100"}
+Now that you have finished the final questions, you officially completed the Facility Manager role in PREPARE. If you got 70% of these questions correct, you can continue to receive your certificate of completion for this role. If you didn't score a 70% minimum, you now have the chance to repeat the final questions.
+
+
+:: Facility Phase III Pre-Test Commentary {"position":"850,25","size":"100,100"}
+Now that you’ve reached the end of this course, let’s see what you have learned! The following questions only allow one attempt for each, so think through each answer before selecting it! Scoring 70% or above is passing.
+
+
+:: Facility Phase III Q1 {"position":"225,25","size":"100,100"}
+Should you continue to use CR boxes in rooms after today?
+[[Facility Phase III QI Options]]
+
+
+:: Facility Phase III Q4 Options [Options] {"position":"600,1525","size":"100,100"}
+a. Temperature
+[[Test Q4 Option a.]]
+b. 1,201 ppm of CO<sub>2</sub>
+[[Test Q4 Correct b.]]
+c. PM<sub>2.5</sub> is high
+[[Test Q4 Option c.]]
+d. Humidity is too low
+[[Test Q4 Option d.]]
+
+
+:: Facility Phase III QI Options [Options] {"position":"225,150","size":"100,100"}
+Yes
+[[Q1 Correct a]]
+No
+[[Q1 Option b]]
+
+
+:: Facility Phase III Test Q1 {"position":"850,150","size":"100,100"}
+1. What are VOCs and where do they primarily come from?
+[[Facility Phase III Test Q1 Options]]
+
+
+:: Facility Phase III Test Q1 Options [Options] {"position":"850,275","size":"100,100"}
+a. Volatile Organic Compounds (VOCs)  can damage our health during prolonged exposure and are seen in higher concentrations indoors than outdoors. They’re released by common items such as air fresheners, cleaning products, appliances, and new furniture fumes.
+[[Test Q1 Correct a]]
+b. Ventilation Output Controls (VOCs) are variants of fan speed settings and other airflow rates that can be witnessed in mitigation measures, but often backfire. They’re released by common air conditioning systems and fans that are plugged in for too long.
+[[Test Q1 Option b]]
+c. Vapor-Originating Contaminants (VOCs) are products of natural mists and fog particles that affect visibility in humid environments. They can infiltrate our lungs and interact with receptors that impair various bodily functions. They are byproducts of morning dew but can also be produced by appliances that release these toxic contaminants into the air.
+[[Test Q1 Option c]]
+d. Vacuum-Operated Cleaners (VOCs) are vacuum attachments that predict the efficiency of air purifiers and vacuums, aiding in the removal of particles in indoor spaces, but they become toxic when there are too many in one space. They range from qualitative information, such as filter capacity, to suction efficiency.
+[[Test Q1 Option d]]
+
+
+:: Facility Phase III Test Q10 {"position":"125,3625","size":"100,100"}
+10. How are PM<sub>1</sub>, PM<sub>2.5</sub>, and PM<sub>10</sub> similar and different?
+[[Facility Phase III Test Q10 Options]]
+
+
+:: Facility Phase III Test Q10 Options [Options] {"position":"125,3750","size":"100,100"}
+a. They all refer to Pressure Measurements in the air, with the numbers indicating the amount of atmospheric pressure in kilopascals (kPa). PM<sub>1</sub> is low pressure, PM<sub>2.5</sub> is moderate pressure, and PM<sub>10</sub> is high pressure.
+[[Test Q10 Option a.]]
+b. They all describe pollution levels, but are based on the number of pollution sources in an area. PM<sub>1</sub> accounts for pollution from a single source, PM<sub>2.5</sub> accounts for multiple sources within a distance of 2.5 miles, and PM<sub>10</sub> includes all pollution in a 10-mile radius. They are important in categorizing the levels in a high-pollution event.
+[[Test Q10 Option b.]]
+c. They all stand for Particulate Matter, which includes solids and liquids that can be found suspended in the air. Each of them varies in size, with the size in micrometers (μm) indicated in the subscript. PM<sub>1</sub> is 1 μm and smaller, PM<sub>2.5</sub> is 2.5 μm and smaller, and PM<sub>10</sub> is 10 μm and smaller. Finer Particulate Matter with a lower subscript is so small that it can infiltrate the lungs and then lead to further severe issues and irritation.
+[[Test Q10 Correct c.]]
+d. They stand for Power Mode settings on the IAQ monitors, with PM<sub>1</sub> being the lowest and PM<sub>10</sub> being the highest. They control how aggressively the device filters the air, with PM<sub>10</sub> capturing more particles than PM<sub>1</sub>.
+[[Test Q10 Option d.]]
+
+
+:: Facility Phase III Test Q2 {"position":"725,525","size":"100,100"}
+2. Why is tracking CO<sub>2</sub> important in indoor environments?
+[[Facility Phase III Test Q2 Options]]
+
+
+:: Facility Phase III Test Q2 Options [Options] {"position":"725,650","size":"100,100"}
+a. CO<sub>2</sub> is the buildup of everyone’s respiration, meaning it can determine how many people are in the room and the target occupancy, depending on the levels.
+[[Test Q2 Option a.]]
+b. CO<sub>2</sub> helps indicate the quality of air circulation within the space, with levels below 1,000 ppm indicating “good” air quality and above 1,400 ppm indicating “poor” air quality, with additional mitigation techniques needed.
+[[Test Q2 Correct b.]]
+c. CO<sub>2</sub> helps indicate the quality of air circulation within the space, with levels above 1,000 ppm indicating “good” air quality.
+[[Test Q2 Option c.]]
+d. CO<sub>2</sub> expresses the total amount of outdoor pollutants entering the indoor space through hidden cracks and gaps in the walls and ceiling, which alerts the facility that they need to get them sealed up.
+[[Test Q2 Option d.]]
+
+
+:: Facility Phase III Test Q3 {"position":"725,1025","size":"100,100"}
+3. What might happen if an air freshener is sprayed near an IAQ monitor?
+[[Facility Phase III Test Q3 Options]]
+
+
+:: Facility Phase III Test Q3 Options [Options] {"position":"725,1150","size":"100,100"}
+a. CO<sub>2</sub> levels will increase.
+[[Test Q3 Option a.]]
+b. There will be no immediate or long-term effect.
+[[Test Q3 Option b.]]
+c. VOC levels will increase.
+[[Test Q3 Correct c.]]
+d. The temperature will rise significantly.
+[[Test Q3 Option d.]]
+
+
+:: Facility Phase III Test Q4 {"position":"600,1400","size":"100,100"}
+4. Examine the following measurements: Yellow RBG lights, CO<sub>2</sub>: 1,201, PM<sub>2.5</sub>: 13, Temperature: 23.5°C (74.3°F), Humidity: 35%. Which example measurement suggests to you that a space has “moderate” air quality?
+[[Facility Phase III Q4 Options]]
+
+
+:: Facility Phase III Test Q5 {"position":"475,1775","size":"100,100"}
+5. Although hands-on learning is beneficial, not everyone learns best visually. Since you have built many Corsi-Rosenthal (CR) boxes already, what are the steps of building one in order?
+[[Facility Phase III Test Q5 Options]]
+
+
+:: Facility Phase III Test Q5 Options [Options] {"position":"475,1900","size":"100,100"}
+a. Assemble and seal together four filters into a square configuration with tape (arrows facing inward, no tape covering the filters, and pleats oriented vertically) → Attach a square of cardboard to the bottom of the square made by the filters with tape → Tape a box fan to the top of the filter square configuration → Cut a rounded square in the shape of the box fan with a large circle cut out of the middle → Tape this cardboard to the top of the box fan (no tape covering the fan) → Plug in!
+[[Test Q5 Correct a.]]
+b. Assemble and seal together three filters into a square configuration with tape (arrows facing inward, no tape covering the filters, and pleats oriented horizontally) → Attach a square of cardboard to the bottom of the square made by the filters with tape → Tape a box fan to the top of the filter square configuration → Cut a rectangle in the shape of the box fan → Tape this cardboard to the top of the box fan (no tape covering the fan) → Plug in!
+[[Test Q5 Option b.]]
+
+
+:: Facility Phase III Test Q6 {"position":"350,2150","size":"100,100"}
+6. How can the learning environment be compromised by the health effects of poor indoor air quality?
+[[Facility Phase III Test Q6 Options]]
+
+
+:: Facility Phase III Test Q6 Options [Options] {"position":"350,2275","size":"100,100"}
+a. Itchy and dry skin, gastrointestinal issues, chest pain, and potentially more extreme health issues, such as liver failure and immunodeficiency
+[[Test Q6 Option a.]]
+b. Migraines, asthma, acid reflux and heartburn, whooping cough in the long-term, and risk of cardiovascular disease in extreme cases
+[[Test Q6 Option b.]]
+c. Drowsiness, difficulty concentrating, decreased academic performance, and possibly higher absenteeism rates, with increasingly extreme health issues during prolonged exposure
+[[Test Q6 Correct c.]]
+d. Panic attacks, drowsiness, anemia, weight gain, difficulty concentrating, migraines, and possibly lower absenteeism rates, with worsening health issues such as kidney disease from long-term exposure
+[[Test Q6 Option d.]]
+
+
+:: Facility Phase III Test Q7 {"position":"225,2525","size":"100,100"}
+7. Are temperature or humidity values beneficial to understand indoor air quality?
+[[Facility Phase III Test Q7 Options]]
+
+
+:: Facility Phase III Test Q7 Options [Options] {"position":"225,2650","size":"100,100"}
+a. Yes
+[[Test Q7 Correct a.]]
+c. No
+[[Test Q7 Option b.]]
+
+
+:: Facility Phase III Test Q8 {"position":"125,2925","size":"100,100"}
+8. What does IAQ stand for, and what does it represent?
+[[Facility Phase III Test Q8 Options]]
+
+
+:: Facility Phase III Test Q8 Options [Options] {"position":"350,3025","size":"100,100"}
+a. IAQ stands for Indoor Air Quality, which is solely measured through the presence of PM<sub>10</sub>.
+[[Test Q8 Option a.]]
+b. IAQ stands for Innate Autoimmune Quality, which describes autoimmune diseases that can be caused by compromised innate immune function.
+[[Test Q8 Option b.]]
+c. IAQ stands for Indoor Air Quantity, which describes the amount of oxygen present in the air and how quickly it enters the bloodstream.
+[[Test Q8 Option c.]]
+d. IAQ stands for Indoor Air Quality, which describes the air quality within buildings.
+[[Test Q8 Correct d.]]
+
+
+:: Facility Phase III Test Q9 {"position":"250,3250","size":"100,100"}
+9. You can normally implement this mitigation strategy to promote airflow and disperse CO<sub>2</sub>, but can’t during a high pollution event? And why?
+[[Facility Phase III Test Q9 Options]]
+
+
+:: Facility Phase III Test Q9 Options [Options] {"position":"300,3375","size":"100,100"}
+a. Open a door that leads outside, because it should never be opened, regardless of the air quality outside, since it decreases air circulation.
+[[Test Q9 Option a.]]
+b. Open a window that leads outside, because it prevents air circulation when the air quality is “good”, but allows PM to flow outside when the air quality is “poor”, since the particles are going from a low concentration indoors to a higher concentration outdoors.
+[[Test Q9 Option b.]]
+c. Open a door to a connecting room or hallway within a building, because it helps air circulate more when the air quality is “good” but not when the air quality is “moderate” to “poor”.
+[[Test Q9 Option c.]]
+d. Open a window that leads outside, because it helps air circulate more when the air quality is “good” outside, but not when the air quality is “moderate” to “poor”.
+[[Test Q9 Correct d.]]
+
+
+:: Post-Test 70% or Above Score {"position":"1125,25","size":"100,100"}
+Awesome job throughout the entire training! Proceed to view your well-earned certificate! You will also receive a copy to the email you previously entered.
+
+
+:: Post-Test First Score Under 70% {"position":"1000,25","size":"100,100"}
+Since you scored below 70%, you will have one more attempt to take the test to earn the certificate of completion.
+
+
+:: Post-Test Second Score Under 70% {"position":"1000,150","size":"100,100"}
+Since you have scored below 70% on two attempts, you now have to restart the training from the beginning to earn the certificate on completion.
+
+
+:: Q1 Correct a {"position":"225,275","size":"100,100"}
+Correct! CR box filters can effectively remove pollutants for a considerable amount of time. As long as teachers and staff understand how to monitor the effectiveness of the boxes and when to change out filters, they can maintain the portable air cleaners. Since the air pollution outside won’t immediately go back to normal levels, it is helpful to keep the CR boxes operating to filter out excess particles and circulate the air.
+[[Facility Phase III Post-Q1 Commentary]]
+
+
+:: Q1 Option b {"position":"350,275","size":"100,100"}
+Incorrect. Their filters can effectively filter out pollutants for up to 8 months. There is no reason to move or take them apart as long as they maintain high efficiency. The outside air won’t immediately be fully safe after today, so these precautions should continue.
+ [[Facility Phase III Q1]]
+
+
+:: Test Q1 Correct a [Correct] {"position":"850,400","size":"100,100"}
+Correct!
+[[Facility Phase III Test Q2]]
+
+
+:: Test Q1 Option b {"position":"975,400","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q2]]
+
+
+:: Test Q1 Option c {"position":"725,400","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q2]]
+
+
+:: Test Q1 Option d {"position":"850,525","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q2]]
+
+
+:: Test Q10 Correct c. [Correct] {"position":"0,3875","size":"100,100"}
+Correct!
+[[Facility Phase III Post-Test Commentary]]
+
+
+:: Test Q10 Option a. {"position":"125,3875","size":"100,100"}
+Incorrect.
+[[Facility Phase III Post-Test Commentary]]
+
+
+:: Test Q10 Option b. {"position":"250,3875","size":"100,100"}
+Incorrect.
+[[Facility Phase III Post-Test Commentary]]
+
+
+:: Test Q10 Option d. {"position":"125,4000","size":"100,100"}
+Incorrect.
+[[Facility Phase III Post-Test Commentary]]
+
+
+:: Test Q2 Correct b. [Correct] {"position":"850,775","size":"100,100"}
+Correct!
+[[Facility Phase III Test Q3]]
+
+
+:: Test Q2 Option a. {"position":"725,775","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q3]]
+
+
+:: Test Q2 Option c. {"position":"725,900","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q3]]
+
+
+:: Test Q2 Option d. {"position":"850,900","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q3]]
+
+
+:: Test Q3 Correct c. [Correct] {"position":"850,1275","size":"100,100"}
+Correct!
+[[Facility Phase III Test Q4]]
+
+
+:: Test Q3 Option a. {"position":"725,1275","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q4]]
+
+
+:: Test Q3 Option b. {"position":"600,1275","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q4]]
+
+
+:: Test Q3 Option d. {"position":"725,1400","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q4]]
+
+
+:: Test Q4 Correct b. [Correct] {"position":"725,1650","size":"100,100"}
+Correct!
+[[Facility Phase III Test Q5]]
+
+
+:: Test Q4 Option a. {"position":"600,1650","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q5]]
+
+
+:: Test Q4 Option c. {"position":"475,1650","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q5]]
+
+
+:: Test Q4 Option d. {"position":"600,1775","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q5]]
+
+
+:: Test Q5 Correct a. [Correct] {"position":"475,2025","size":"100,100"}
+Correct!
+[[Facility Phase III Test Q6]]
+
+
+:: Test Q5 Option b. {"position":"600,2025","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q6]]
+
+
+:: Test Q6 Correct c. [Correct] {"position":"225,2400","size":"100,100"}
+Correct!
+[[Facility Phase III Test Q7]]
+
+
+:: Test Q6 Option a. {"position":"350,2400","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q7]]
+
+
+:: Test Q6 Option b. {"position":"475,2400","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q7]]
+
+
+:: Test Q6 Option d. {"position":"350,2525","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q7]]
+
+
+:: Test Q7 Correct a. [Correct] {"position":"350,2775","size":"100,100"}
+Correct!
+[[Facility Phase III Test Q8]]
+
+
+:: Test Q7 Option b. {"position":"100,2775","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q8]]
+
+
+:: Test Q8 Correct d. [Correct] {"position":"450,3225","size":"100,100"}
+Correct!
+[[Facility Phase III Test Q9]]
+
+
+:: Test Q8 Option a. {"position":"300,3150","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q9]]
+
+
+:: Test Q8 Option b. {"position":"500,3075","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q9]]
+
+
+:: Test Q8 Option c. {"position":"175,3100","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q9]]
+
+
+:: Test Q9 Correct d. [Correct] {"position":"125,3500","size":"100,100"}
+Correct!
+[[Facility Phase III Test Q10]]
+
+
+:: Test Q9 Option a. {"position":"250,3500","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q10]]
+
+
+:: Test Q9 Option b. {"position":"375,3500","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q10]]
+
+
+:: Test Q9 Option c. {"position":"250,3625","size":"100,100"}
+Incorrect.
+[[Facility Phase III Test Q10]]

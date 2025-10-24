@@ -1,0 +1,190 @@
+:: StoryTitle
+Teacher Phase 1
+
+
+:: StoryData
+{
+  "ifid": "61ADC083-F125-410A-8CE7-9287375710DC",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Teacher Intro",
+  "tag-colors": {
+    "Options": "orange",
+    "Correct": "green"
+  },
+  "zoom": 1
+}
+
+
+:: After CR Box Building {"position":"575,200","size":"100,100"}
+Since this was just a practice build, you can’t implement this CR box in your room to increase ventilation. Instead, this CR box will reset after this phase and you will be instructed to build more as you progress to other phases of the game.
+
+
+:: Teacher 1.1 {"position":"125,200","size":"100,100"}
+Let’s look around your classroom and learn about some of the factors that influence indoor air quality.
+
+
+:: Teacher Air Freshener Plug-In 1.1 {"position":"425,150","size":"100,100"}
+Spray aerosol air fresheners will release large concentrations of VOCs at once that stay suspended in the air and then fall to the floor over time. Cleaning supplies, paint, new furniture, carpet, and appliances are also contributors.
+[[Teacher Air Freshener Plug-In 1.2]]
+
+
+:: Teacher Air Freshener Plug-In 1.2 {"position":"425,275","size":"100,100"}
+Although this alone may not be the only source contributing to Indoor Air Quality (IAQ), prolonged exposure to chemicals in great quantities because of poor ventilation is damaging to our health.
+[[Teacher Air Freshener Plug-In 1.3]]
+
+
+:: Teacher Air Freshener Plug-In 1.3 {"position":"425,400","size":"100,100"}
+You should remove this so it doesn’t interfere with any VOC measurements, especially when you or other people are in the room.
+
+
+:: Teacher Air Freshener Plug-In Intro {"position":"425,25","size":"100,100"}
+This is your average air freshener plug-in, with pods you replace each time they run out. It keeps your office smelling fresh, but it also contributes <b>Volatile Organic Compounds (VOCs)</b> to the indoor space. 
+[[Teacher Air Freshener Plug-In 1.1]]
+
+
+:: Teacher Intro {"position":"125,75","size":"100,100"}
+You have chosen to be a <b>Teacher</b> for at a local K-12 district school. You teach a 6th-grade homeroom class with outdoor walkways between buildings. Beyond teaching different subjects to your class, you are responsible for taking attendance at the beginning of the day and after recess, ensuring safety protocol is met, maintaining order in the classroom, and supporting and monitoring students while they do their work.
+[[Teacher 1.1]]
+
+
+:: Teacher Open Window 1.1 {"position":"275,150","size":"100,100"}
+In closed rooms without proper air circulation, CO<sub>2</sub> and other gases can accumulate from various sources. This can be a temporary fix to alleviate stuffiness. Opening a door–whether it leads outside directly or into a hallway–can also promote greater air circulation. Note, you should not open the window if there is harmful wildfire smoke in the area.
+[[Teacher Open Window 1.2]]
+
+
+:: Teacher Open Window 1.2 {"position":"275,275","size":"100,100"}
+Go ahead and open the window to let fresh air in and promote circulation.
+
+
+:: Teacher Open Window Intro {"position":"275,25","size":"100,100"}
+This window plays an important role when the outside air quality is better than the inside. Opening a window promotes airflow, especially when the indoor ventilation systems are insufficient or the room feels congested. It especially helps lower Carbon ioxide (CO<sub>2</sub>) levels in the air when there are many people in a space.
+[[Teacher Open Window 1.1]]
+
+
+:: Teacher P1 Post-Activities {"position":"875,25","size":"100,100"}
+You might have noticed the term 'IAQ’ mentioned in relation to some of the objects around your office. <b>Indoor Air Quality (IAQ)</b> describes the air quality within buildings. Outdoor air can easily enter indoor spaces through doors, windows, and any other small openings, like cracks or gaps. Mechanical ventilation in HVAC systems brings in fresh outside air to ensure a consistent flow of air, which can bring pollutants into indoor environments.
+[[Teacher P1 Pre-Quiz]]
+
+
+:: Teacher P1 Post-Quiz Commentary {"position":"1050,1400","size":"100,100"}
+Awesome job on the questions! Even if you didn’t get all of them correct on the first attempt, making mistakes is how you learn! Reading through why an answer is correct or incorrect will prepare you more than if you simply went into it blindly. You just took the first step towards mastering these skills!
+
+
+:: Teacher P1 Pre-Quiz {"position":"875,150","size":"100,100"}
+Now that you’ve explored your classroom, let's see what you’ve learned thus far!
+[[Teacher Quiz Q1]]
+
+
+:: Teacher P1 Q1 Correct b [Correct] {"position":"825,525","size":"100,100"}
+Correct! As mentioned while encountering the IAQ monitor and air freshener in your office, volatile organic compounds (VOCs) are harmful chemicals that can be produced from air fresheners, cleaning supplies, new furniture or paint fumes, and more. Total volatile organic compounds (TVOCs) represents  the total amounts of VOCs that have accumulated.
+[[Teacher Quiz Q2]]
+
+
+:: Teacher P1 Q1 Option a {"position":"750,525","size":"100,100"}
+Incorrect. Although these contain air quality-related words, this is not what either term stands for or represents. Think back to reading different measurements from the IAQ monitor and investigating the air freshener.
+[[Teacher Quiz Q1]]
+
+
+:: Teacher P1 Q1 Option c {"position":"900,525","size":"100,100"}
+Incorrect. Think back to reading different measurements from the IAQ monitor and investigating the air freshener.
+[[Teacher Quiz Q1]]
+
+
+:: Teacher P1 Q1 Option d {"position":"1000,525","size":"100,100"}
+Incorrect. Think back to reading different measurements from the IAQ monitor and investigating the air freshener.
+[[Teacher Quiz Q1]]
+
+
+:: Teacher P1 Q1 Options [Options] {"position":"875,400","size":"100,100"}
+a. VOCs are ventilation output controls, while TVOCs are the total volume of oxygen circulating. They range from fan speed settings to open window airflow rates that can be witnessed in mitigation measures but backfire.
+[[Teacher P1 Q1 Option a]]
+b. VOCs are volatile organic compounds, while TVOCs are the total amount of volatile organic compounds in the air. They are gases that are present in the air . They emerge from many sources, including cleaning products, air fresheners, and new furniture.
+[[Teacher P1 Q1 Correct b]]
+c. VOCs are vapor-originating contaminants, while TVOCs are temperature-volatile organic compounds. They are products of natural mists and fog particles that affect visibility in humid environments. They are byproducts of morning dew to shower steam that release toxic chemicals into the air.
+[[Teacher P1 Q1 Option c]]
+d. VOCs are vacuum-operated cleaners, while TVOCs are the total volume of collected dust. They describe how air purifiers and vacuums aid in removing particles in indoor spaces. They range from qualitative information, such as filter capacity to suction efficiency.
+[[Teacher P1 Q1 Option d]]
+
+
+:: Teacher P1 Q2 Correct c [Correct] {"position":"925,900","size":"100,100"}
+Correct! This matches up with the description when you were shown how to read the IAQ monitor and what each value means. PM<sub>1</sub> is 1 μm and smaller, PM<sub>2.5</sub> is 2.5 μm and smaller, and PM<sub>10</sub> is 10 μm and smaller. Finer particulate matter with a lower subscript is so small that it can infiltrate the lungs and then lead to further severe issues and irritation.
+[[Teacher Quiz Q3]]
+
+
+:: Teacher P1 Q2 Option a {"position":"775,900","size":"100,100"}
+Incorrect. Think back to reading the IAQ monitor and understanding the health impacts of different PMs pertaining to air quality.
+[[Teacher Quiz Q2]]
+
+
+:: Teacher P1 Q2 Option b {"position":"850,900","size":"100,100"}
+Incorrect. Think back to reading the IAQ monitor and understanding the health impacts of different PMs pertaining to air quality.
+[[Teacher Quiz Q2]]
+
+
+:: Teacher P1 Q2 Option d {"position":"1000,900","size":"100,100"}
+Incorrect. Think back to reading the IAQ monitor and understanding the health impacts of different PMs pertaining to air quality.
+[[Teacher Quiz Q3]]
+
+
+:: Teacher P1 Q2 Options [Options] {"position":"875,775","size":"100,100"}
+a. They all refer to pressure measurements in the air, with the numbers indicating the amount of atmospheric pressure in kilopascals (kPa). PM<sub>1</sub> is low pressure, PM<sub>2.5</sub> is moderate pressure, and PM<sub>10</sub> is high pressure.
+[[Teacher P1 Q2 Option a]]
+b. They all describe pollution measures  but are based on the number of pollution sources in an area. PM<sub>1</sub> accounts for pollution measures from a single source one mile away, PM<sub>2.5</sub> for multiple sources within 2.5 miles, and PM<sub>10</sub> includes all pollution measures in a 10-mile radius.
+[[Teacher P1 Q2 Option b]]
+c. They all stand for particulate matter, which are solids and liquids that can be found suspended in the air. Each size is in micrometers (μm), indicated in the subscript.
+[[Teacher P1 Q2 Correct c]]
+d. They stand for power mode settings on the IAQ monitors, with PM<sub>1</sub> being the lowest and PM<sub>10</sub> being the highest. They control how aggressively the device filters the air, with PM<sub>10</sub> capturing more particles than PM<sub>1</sub>.
+[[Teacher P1 Q2 Option d]]
+
+
+:: Teacher P1 Q3 Correct d [Correct] {"position":"1050,1275","size":"100,100"}
+Correct! When building a CR box, you have to ensure the right orientation by facing the arrows on the filters inward, connecting and sealing the four filters, and placing the filters where pleats are vertical.
+[[Teacher P1 Post-Quiz Commentary]]
+
+
+:: Teacher P1 Q3 Option a {"position":"825,1275","size":"100,100"}
+Incorrect. Although this might be true to make sure air flows into the box to get filtered out, there is still a better answer to consider when remembering the steps to building a CR box.
+[[Teacher Quiz Q3]]
+
+
+:: Teacher P1 Q3 Option b {"position":"925,1275","size":"100,100"}
+Incorrect. Although this might be true to prevent air and trapped pollutants from escaping, there is still a better answer to consider when remembering the steps to building a CR box.
+[[Teacher Quiz Q3]]
+
+
+:: Teacher P1 Q3 Option c {"position":"1000,1275","size":"100,100"}
+Incorrect. Although this might be true to maximize efficiency, there is still a better answer to consider when remembering the steps to building a CR box.
+[[Teacher Quiz Q3]]
+
+
+:: Teacher P1 Q3 Options [Options] {"position":"925,1150","size":"100,100"}
+a. The arrows on the filters are facing inward.
+[[Teacher P1 Q3 Option a]]
+b. The arrows on the filters are facing inward and the connections between the four filters are completely sealed with tape.
+[[Teacher P1 Q3 Option b]]
+c. The arrows on the filters are facing inward and the pleats are oriented vertically when sitting upright.
+[[Teacher P1 Q3 Option c]]
+d. All of the above are necessary.
+[[Teacher P1 Q3 Correct d]]
+
+
+
+:: Teacher Plant Intro {"position":"575,25","size":"100,100"}
+This plant makes a nice addition to the room, but may not be doing much to impact the indoor air quality. Although plants convert CO<sub>2</sub> into O<sub>2</sub> during photosynthesis, it might take much more than just one plant to make a significant difference in the indoor air quality. Even if there was an abundance of plants maintained in the space, other mitigation strategies might be needed to obtain more immediate and longer-term results.
+
+
+:: Teacher Quiz Q1 {"position":"875,275","size":"100,100"}
+1. What are VOCs and TVOCs, and what do they stand for?
+[[Teacher P1 Q1 Options]]
+
+
+
+:: Teacher Quiz Q2 {"position":"875,650","size":"100,100"}
+2. How are PM<sub>1</sub>, PM<sub>2.5</sub>, and PM<sub>10</sub> similar and different?
+[[Teacher P1 Q2 Options]]
+
+
+:: Teacher Quiz Q3 {"position":"925,1025","size":"100,100"}
+3. What is important to do when orienting the filters in the Corsi-Rosenthal (CR) box?
+[[Teacher P1 Q3 Options]]
